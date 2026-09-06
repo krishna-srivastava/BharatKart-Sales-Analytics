@@ -1,0 +1,1201 @@
+seller_id,seller_name,seller_city,seller_state,seller_signup_date,primary_category,seller_rating,seller_tier
+SELR000001,Banerjee Bella Traders,Vadodara,Gujarat,2024-02-08,Beauty & Personal Care,2.9,Low
+SELR000002,Radiance Impex,Mysuru,Karnataka,2023-12-11,Beauty & Personal Care,3.8,Medium
+SELR000003,Sharma Junction,Vijayawada,Andhra Pradesh,2022-09-30,Grocery,2.9,Low
+SELR000004,Tiwari Traders,Prayagraj,Uttar Pradesh,2022-11-22,Sports & Fitness,4.0,Medium
+SELR000005,Yadav Traders,Ranchi,Jharkhand,2024-05-18,Electronics,4.5,High
+SELR000006,Agarwal House,Chennai,Tamil Nadu,2024-04-18,Electronics,3.3,Low
+SELR000007,Sood Mart,Indore,Madhya Pradesh,2024-04-02,Beauty & Personal Care,2.7,Low
+SELR000008,Dutta Comfort Stores,Pune,Maharashtra,2023-01-04,Home & Kitchen,3.8,Low
+SELR000009,Das Hub,Ahmedabad,Gujarat,2024-02-11,Fashion,4.7,High
+SELR000010,Lone Kitchen Emporium,Rourkela,Odisha,2022-09-17,Home & Kitchen,4.3,Medium
+SELR000011,Trivedi Traders,Nashik,Maharashtra,2022-12-21,Books,3.5,Medium
+SELR000012,Sandhu Daily Enterprises,Hubballi,Karnataka,2024-01-29,Grocery,3.9,Low
+SELR000013,Bhatt Hub,Noida,Uttar Pradesh,2024-06-12,Beauty & Personal Care,4.2,Medium
+SELR000014,Sisodia Hearth Bazaar,Nagpur,Maharashtra,2024-07-26,Home & Kitchen,4.1,Low
+SELR000015,Bose Weave Enterprises,Surat,Gujarat,2025-08-02,Fashion,3.2,Medium
+SELR000016,Glow Global,Mumbai,Maharashtra,2025-03-09,Beauty & Personal Care,4.5,Medium
+SELR000017,Sethi Junction,Chennai,Tamil Nadu,2023-09-15,Fashion,4.0,Medium
+SELR000018,Reddy Emporium,Nagpur,Maharashtra,2024-12-18,Beauty & Personal Care,4.9,High
+SELR000019,Chauhan Trading Co,Mumbai,Maharashtra,2022-10-27,Sports & Fitness,4.1,Low
+SELR000020,Byte Overseas,Rourkela,Odisha,2025-03-13,Electronics,3.5,Medium
+SELR000021,Singh Electricals,Mumbai,Maharashtra,2023-09-23,Electronics,2.9,Low
+SELR000022,Threads Textiles,Hyderabad,Telangana,2024-11-22,Fashion,4.0,Medium
+SELR000023,Halder Textiles,Dehradun,Uttarakhand,2025-07-20,Toys & Baby Products,4.5,Low
+SELR000024,Active Bazaar,Mumbai,Maharashtra,2024-09-18,Sports & Fitness,2.8,Low
+SELR000025,Trend Collection,Kota,Rajasthan,2025-05-24,Fashion,2.9,Low
+SELR000026,Chauhan Toon Marketing,Varanasi,Uttar Pradesh,2022-07-21,Toys & Baby Products,3.9,Medium
+SELR000027,Naidu Kitchen Industries,Mumbai,Maharashtra,2023-01-20,Home & Kitchen,4.0,Medium
+SELR000028,Nair Kitchen Solutions,Nashik,Maharashtra,2024-06-22,Home & Kitchen,4.7,High
+SELR000029,Sethi Wholesale,Chandigarh,Chandigarh,2024-03-17,Toys & Baby Products,3.7,Medium
+SELR000030,Patel Gadget Industries,Bhubaneswar,Odisha,2022-11-24,Electronics,4.3,Medium
+SELR000031,Trend Wholesale,Meerut,Uttar Pradesh,2024-10-05,Fashion,3.3,Low
+SELR000032,Sisodia Traders,Varanasi,Uttar Pradesh,2022-09-14,Beauty & Personal Care,2.9,Low
+SELR000033,Sethi Traders,Patna,Bihar,2025-08-12,Fashion,3.8,Medium
+SELR000034,Chatterjee Hub,Ahmedabad,Gujarat,2023-01-04,Sports & Fitness,4.4,Medium
+SELR000035,Thakur Fabric Retail,Ludhiana,Punjab,2023-11-29,Fashion,4.0,Medium
+SELR000036,Rana Circuit Solutions,Bikaner,Rajasthan,2025-02-02,Electronics,3.8,Medium
+SELR000037,Jain Trend Mart,Patna,Bihar,2024-02-16,Fashion,5.0,High
+SELR000038,Kohli Living Junction,Kochi,Kerala,2024-11-03,Home & Kitchen,4.7,Medium
+SELR000039,Thakur Marketing,Noida,Uttar Pradesh,2024-09-19,Fashion,4.1,Medium
+SELR000040,Digital Solutions,Bhubaneswar,Odisha,2025-06-25,Electronics,4.4,Medium
+SELR000041,Harvest Mart,Margao,Goa,2023-12-20,Grocery,4.4,Medium
+SELR000042,Deshmukh Fabric Global,Bengaluru,Karnataka,2025-07-30,Fashion,3.8,Low
+SELR000043,Kitchen Junction,Hyderabad,Telangana,2024-02-19,Home & Kitchen,3.4,Low
+SELR000044,Wani House,Nagpur,Maharashtra,2025-04-23,Electronics,3.6,Medium
+SELR000045,Chopra Hub,Lucknow,Uttar Pradesh,2024-10-22,Fashion,3.6,Low
+SELR000046,Negi Style Bazaar,Bhopal,Madhya Pradesh,2022-12-08,Fashion,2.8,Low
+SELR000047,Kamath Junction,Delhi,Delhi,2024-07-12,Beauty & Personal Care,3.9,Medium
+SELR000048,Threads Impex,Gurugram,Haryana,2025-04-06,Fashion,3.7,Medium
+SELR000049,Toon Stores,Patna,Bihar,2022-12-03,Toys & Baby Products,3.9,Medium
+SELR000050,Srivastava Mart,Patna,Bihar,2025-02-20,Toys & Baby Products,4.3,High
+SELR000051,Tiwari Gadget Retail,Kochi,Kerala,2022-11-07,Electronics,4.0,Medium
+SELR000052,Chowdhury Impex,Varanasi,Uttar Pradesh,2025-03-29,Electronics,4.9,High
+SELR000053,Das Retail,Coimbatore,Tamil Nadu,2024-12-25,Electronics,3.7,Low
+SELR000054,Sisodia Traders,Mysuru,Karnataka,2022-12-29,Beauty & Personal Care,3.5,Medium
+SELR000055,Chakraborty Circuit Wholesale,Faridabad,Haryana,2024-10-15,Electronics,3.4,Low
+SELR000056,Halder Organic Distributors,Nagpur,Maharashtra,2022-11-20,Grocery,3.2,Low
+SELR000057,Halder Scroll Stores,Ghaziabad,Uttar Pradesh,2024-04-17,Books,4.1,Medium
+SELR000058,Sandhu Organic Wholesale,Mumbai,Maharashtra,2025-05-28,Grocery,3.7,Medium
+SELR000059,Suri Collection,Pune,Maharashtra,2023-03-01,Beauty & Personal Care,4.8,High
+SELR000060,Kulkarni Joy Stores,Nagpur,Maharashtra,2023-01-24,Toys & Baby Products,4.4,High
+SELR000061,Volt Stores,Shimla,Himachal Pradesh,2023-11-04,Electronics,3.6,Medium
+SELR000062,Srivastava Hearth Enterprises,Visakhapatnam,Andhra Pradesh,2023-09-03,Home & Kitchen,4.3,Medium
+SELR000063,Pal Threads Junction,Mumbai,Maharashtra,2022-09-03,Fashion,4.3,Medium
+SELR000064,Tiwari Joy Creations,Vadodara,Gujarat,2023-12-11,Toys & Baby Products,4.1,Low
+SELR000065,Halder Retail,Hyderabad,Telangana,2023-05-01,Beauty & Personal Care,3.8,Medium
+SELR000066,Kaul Bazaar,Amritsar,Punjab,2022-11-28,Grocery,4.4,Medium
+SELR000067,Thakur Textiles,Jodhpur,Rajasthan,2023-05-20,Fashion,3.8,Medium
+SELR000068,Dar Toon Global,Vadodara,Gujarat,2022-08-02,Toys & Baby Products,4.2,Medium
+SELR000069,Kitchen Ventures,Vadodara,Gujarat,2025-05-18,Home & Kitchen,4.8,High
+SELR000070,Rastogi Living Junction,Ahmedabad,Gujarat,2025-08-16,Home & Kitchen,3.9,Medium
+SELR000071,Bose Ventures,Jaipur,Rajasthan,2023-09-02,Toys & Baby Products,3.2,Medium
+SELR000072,Hearth Point,Jalandhar,Punjab,2025-04-04,Home & Kitchen,3.9,Medium
+SELR000073,Home Retail,Varanasi,Uttar Pradesh,2023-12-17,Home & Kitchen,4.3,Low
+SELR000074,Bella Solutions,Kanpur,Uttar Pradesh,2025-05-15,Beauty & Personal Care,3.9,Medium
+SELR000075,Naidu Digital Stores,Kolkata,West Bengal,2023-01-23,Electronics,4.4,High
+SELR000076,Gaikwad Style Global,Delhi,Delhi,2023-05-30,Fashion,3.6,Medium
+SELR000077,Halder Fabric Enterprises,Bengaluru,Karnataka,2024-10-30,Fashion,3.8,Medium
+SELR000078,Jain House,Hyderabad,Telangana,2023-03-17,Electronics,3.7,Medium
+SELR000079,Trivedi Emporium,Kolkata,West Bengal,2025-02-02,Grocery,3.8,Medium
+SELR000080,Bloom Bazaar,Solapur,Maharashtra,2023-11-07,Beauty & Personal Care,2.7,Low
+SELR000081,Vogue Ventures,Surat,Gujarat,2023-10-13,Fashion,4.5,Medium
+SELR000082,Tiwari Emporium,Chennai,Tamil Nadu,2023-12-08,Home & Kitchen,3.8,Medium
+SELR000083,Pal Home Collection,Mumbai,Maharashtra,2025-01-04,Home & Kitchen,4.0,Low
+SELR000084,Bansal Radiance Bazaar,Ahmedabad,Gujarat,2022-07-16,Beauty & Personal Care,3.6,Medium
+SELR000085,Little Emporium,Raipur,Chhattisgarh,2024-11-11,Toys & Baby Products,4.2,High
+SELR000086,Lone House,Gurugram,Haryana,2024-12-14,Toys & Baby Products,4.3,High
+SELR000087,Ahluwalia Textiles,Guwahati,Assam,2025-01-31,Home & Kitchen,3.4,Low
+SELR000088,Patil Hub,Madurai,Tamil Nadu,2025-08-19,Fashion,3.5,Medium
+SELR000089,Rao Creations,Mumbai,Maharashtra,2024-12-17,Home & Kitchen,3.5,Medium
+SELR000090,Lone Pure Retail,Ghaziabad,Uttar Pradesh,2024-03-03,Beauty & Personal Care,4.1,Medium
+SELR000091,Sandhu Overseas,Patiala,Punjab,2023-12-23,Home & Kitchen,4.2,Medium
+SELR000092,Peak Collection,Gurugram,Haryana,2023-09-25,Sports & Fitness,3.3,Medium
+SELR000093,Raina Electricals,Delhi,Delhi,2025-02-06,Beauty & Personal Care,3.9,Medium
+SELR000094,Vogue Industries,Jamshedpur,Jharkhand,2023-09-30,Fashion,4.6,Medium
+SELR000095,Dutta Fabric Creations,Udaipur,Rajasthan,2024-04-22,Fashion,3.9,Medium
+SELR000096,Kitchen Electricals,Kanpur,Uttar Pradesh,2022-10-27,Home & Kitchen,4.5,Medium
+SELR000097,Tech Point,Indore,Madhya Pradesh,2023-07-06,Electronics,4.2,Medium
+SELR000098,Weave Retail,Hyderabad,Telangana,2023-05-09,Fashion,3.9,High
+SELR000099,Biswas Overseas,Raipur,Chhattisgarh,2023-11-17,Sports & Fitness,4.4,High
+SELR000100,Trivedi Mart,Surat,Gujarat,2024-02-02,Home & Kitchen,2.8,Low
+SELR000101,Style Traders,Delhi,Delhi,2024-10-03,Fashion,3.0,Low
+SELR000102,Bella Overseas,Nashik,Maharashtra,2023-11-14,Beauty & Personal Care,3.7,Medium
+SELR000103,Page Trading Co,Gorakhpur,Uttar Pradesh,2022-12-28,Books,4.5,Medium
+SELR000104,Chandel Junction,Meerut,Uttar Pradesh,2024-03-22,Fashion,4.0,Low
+SELR000105,Pal Traders,Pune,Maharashtra,2022-09-10,Grocery,2.7,Low
+SELR000106,Banerjee Little Solutions,Delhi,Delhi,2025-03-03,Toys & Baby Products,4.2,Low
+SELR000107,Reddy Radiance Bazaar,Tiruchirappalli,Tamil Nadu,2024-12-04,Beauty & Personal Care,4.0,Medium
+SELR000108,Arora Active Emporium,Tiruchirappalli,Tamil Nadu,2023-03-23,Sports & Fitness,4.2,Medium
+SELR000109,Trivedi Circuit Trading Co,Nagpur,Maharashtra,2023-05-06,Electronics,4.1,High
+SELR000110,Tiny Point,Coimbatore,Tamil Nadu,2022-08-10,Toys & Baby Products,3.5,Low
+SELR000111,Chandel Collection,Lucknow,Uttar Pradesh,2023-08-29,Home & Kitchen,3.3,Medium
+SELR000112,Little Industries,Noida,Uttar Pradesh,2022-08-22,Toys & Baby Products,4.2,Medium
+SELR000113,Kamath House,Mumbai,Maharashtra,2025-06-11,Beauty & Personal Care,3.1,Medium
+SELR000114,Digital Enterprises,Mumbai,Maharashtra,2022-12-09,Electronics,3.9,Medium
+SELR000115,Chandel Gadget Creations,Chennai,Tamil Nadu,2024-07-30,Electronics,4.3,Medium
+SELR000116,Chandel Collection,Jabalpur,Madhya Pradesh,2024-04-20,Sports & Fitness,3.3,Low
+SELR000117,Kulkarni Charm Stores,Bengaluru,Karnataka,2023-04-06,Beauty & Personal Care,3.3,Low
+SELR000118,Digital Trading Co,Hyderabad,Telangana,2025-01-16,Electronics,4.1,Low
+SELR000119,Singh Read Impex,Indore,Madhya Pradesh,2022-11-11,Books,3.8,Medium
+SELR000120,Joshi Harvest Collection,Hyderabad,Telangana,2025-04-15,Grocery,4.1,Medium
+SELR000121,Vaghela Solutions,Bengaluru,Karnataka,2024-10-30,Home & Kitchen,3.3,Medium
+SELR000122,Negi Trading Co,Bhopal,Madhya Pradesh,2024-07-03,Home & Kitchen,4.0,Medium
+SELR000123,Gadget Wholesale,Kolkata,West Bengal,2025-04-07,Electronics,4.3,High
+SELR000124,Roy Creations,Faridabad,Haryana,2023-10-12,Books,3.9,Medium
+SELR000125,Joshi Trading Co,Kozhikode,Kerala,2023-05-27,Fashion,4.7,High
+SELR000126,Trivedi Overseas,Bengaluru,Karnataka,2023-01-02,Grocery,4.1,Medium
+SELR000127,Arora Nest Solutions,Kozhikode,Kerala,2025-05-28,Home & Kitchen,3.8,Medium
+SELR000128,Chauhan Traders,Warangal,Telangana,2023-10-10,Beauty & Personal Care,4.5,High
+SELR000129,Srivastava Enterprises,Meerut,Uttar Pradesh,2025-02-09,Fashion,4.5,High
+SELR000130,Nair Threads Collection,Chandigarh,Chandigarh,2023-07-23,Fashion,3.7,Medium
+SELR000131,Ink Point,Faridabad,Haryana,2025-07-02,Books,3.8,Medium
+SELR000132,Jain Living Mart,Chandigarh,Chandigarh,2025-03-27,Home & Kitchen,2.7,Low
+SELR000133,Bloom Industries,Nashik,Maharashtra,2023-06-26,Beauty & Personal Care,4.5,Medium
+SELR000134,Little Mart,Delhi,Delhi,2024-01-15,Toys & Baby Products,4.0,Medium
+SELR000135,Little Textiles,Patiala,Punjab,2024-12-31,Toys & Baby Products,4.2,Medium
+SELR000136,Daily Solutions,Patna,Bihar,2023-03-24,Grocery,4.2,High
+SELR000137,Style Point,Thiruvananthapuram,Kerala,2022-08-06,Fashion,3.7,Low
+SELR000138,Sethi Textiles,Kolkata,West Bengal,2023-06-04,Beauty & Personal Care,4.0,Medium
+SELR000139,Farm Enterprises,Delhi,Delhi,2024-05-13,Grocery,3.7,Low
+SELR000140,Home Point,Kanpur,Uttar Pradesh,2022-12-12,Home & Kitchen,4.8,High
+SELR000141,Dhar Industries,Surat,Gujarat,2023-07-25,Electronics,3.9,Medium
+SELR000142,Bhat Solutions,Noida,Uttar Pradesh,2025-05-22,Grocery,4.4,Medium
+SELR000143,Hearth Bazaar,Ahmedabad,Gujarat,2022-10-03,Home & Kitchen,2.9,Low
+SELR000144,Gill Retail,Chennai,Tamil Nadu,2022-09-05,Beauty & Personal Care,3.6,Medium
+SELR000145,Pandey Joy Collection,Nagpur,Maharashtra,2023-11-05,Toys & Baby Products,4.9,Medium
+SELR000146,Rathore Solutions,Kolkata,West Bengal,2022-07-24,Beauty & Personal Care,3.6,Medium
+SELR000147,Shetty Electricals,Nellore,Andhra Pradesh,2022-08-10,Home & Kitchen,4.0,Medium
+SELR000148,Chandel Hearth Marketing,Bengaluru,Karnataka,2023-02-03,Home & Kitchen,4.1,Medium
+SELR000149,Bhatia Kitchen Mart,Ahmedabad,Gujarat,2022-11-03,Home & Kitchen,4.1,Medium
+SELR000150,Pillai Tech Industries,Pune,Maharashtra,2025-01-19,Electronics,4.4,High
+SELR000151,Ahluwalia Global,Indore,Madhya Pradesh,2022-11-26,Books,2.4,Low
+SELR000152,Hegde Harvest Bazaar,Surat,Gujarat,2024-02-26,Grocery,3.6,Low
+SELR000153,Fabric Overseas,Coimbatore,Tamil Nadu,2024-09-21,Fashion,4.5,High
+SELR000154,Threads Ventures,Gorakhpur,Uttar Pradesh,2024-06-22,Fashion,4.8,Medium
+SELR000155,Ahluwalia Electricals,Pune,Maharashtra,2024-07-24,Grocery,4.7,High
+SELR000156,Volt Mart,Nashik,Maharashtra,2023-08-21,Electronics,4.2,Medium
+SELR000157,Chopra Bloom Emporium,Delhi,Delhi,2025-04-18,Beauty & Personal Care,3.9,Medium
+SELR000158,Shah Distributors,Chennai,Tamil Nadu,2022-09-26,Home & Kitchen,3.9,Medium
+SELR000159,Kamath Marketing,Lucknow,Uttar Pradesh,2022-11-09,Sports & Fitness,3.9,Low
+SELR000160,Srivastava Junction,Delhi,Delhi,2025-03-12,Fashion,2.1,Low
+SELR000161,Brar Solutions,Faridabad,Haryana,2022-09-25,Sports & Fitness,4.7,High
+SELR000162,Nest Traders,Visakhapatnam,Andhra Pradesh,2023-02-13,Home & Kitchen,4.2,Low
+SELR000163,Bella Emporium,Vijayawada,Andhra Pradesh,2023-01-23,Beauty & Personal Care,4.4,Medium
+SELR000164,Volt Global,Kanpur,Uttar Pradesh,2022-08-16,Electronics,4.4,High
+SELR000165,Home Retail,Ghaziabad,Uttar Pradesh,2022-11-20,Home & Kitchen,3.8,Medium
+SELR000166,Rawat Junction,Gurugram,Haryana,2024-04-22,Beauty & Personal Care,3.7,Medium
+SELR000167,Weave Electricals,Delhi,Delhi,2024-08-01,Fashion,4.2,Low
+SELR000168,Dubey Trading Co,Mumbai,Maharashtra,2022-10-12,Electronics,3.6,Low
+SELR000169,Vaghela Emporium,Kochi,Kerala,2025-06-18,Fashion,4.2,Medium
+SELR000170,Menon Junction,Panaji,Goa,2022-10-27,Fashion,2.9,Low
+SELR000171,Bose Marketing,Delhi,Delhi,2024-08-31,Electronics,3.9,Medium
+SELR000172,Negi Toon Hub,Indore,Madhya Pradesh,2025-01-07,Toys & Baby Products,3.5,Medium
+SELR000173,Bajwa Kitchen Bazaar,Vijayawada,Andhra Pradesh,2024-02-23,Home & Kitchen,3.5,Medium
+SELR000174,Fresh Global,Jodhpur,Rajasthan,2024-01-21,Grocery,4.9,Low
+SELR000175,Desai Joy Solutions,Indore,Madhya Pradesh,2022-11-11,Toys & Baby Products,3.6,Medium
+SELR000176,Circuit Hub,Faridabad,Haryana,2023-04-11,Electronics,4.5,High
+SELR000177,Ganguly Global,Ludhiana,Punjab,2025-03-05,Sports & Fitness,4.0,Medium
+SELR000178,Farm Trading Co,Moradabad,Uttar Pradesh,2023-08-11,Grocery,2.7,Low
+SELR000179,Bloom Enterprises,Mumbai,Maharashtra,2022-08-18,Beauty & Personal Care,4.3,Low
+SELR000180,Arora Home Trading Co,Cuttack,Odisha,2024-10-18,Home & Kitchen,3.0,Low
+SELR000181,Chatterjee Industries,Delhi,Delhi,2024-08-27,Home & Kitchen,3.3,Low
+SELR000182,Byte Impex,Jabalpur,Madhya Pradesh,2022-09-23,Electronics,3.8,Low
+SELR000183,Menon Charm Hub,Mumbai,Maharashtra,2022-09-06,Beauty & Personal Care,3.8,Medium
+SELR000184,Das Textiles,Hyderabad,Telangana,2022-11-19,Toys & Baby Products,3.0,Medium
+SELR000185,Playful Trading Co,Delhi,Delhi,2022-09-06,Toys & Baby Products,3.3,Low
+SELR000186,Mukherjee Stores,Jaipur,Rajasthan,2024-06-11,Electronics,3.6,Medium
+SELR000187,Pillai Power Electricals,Ahmedabad,Gujarat,2022-12-08,Sports & Fitness,4.2,Medium
+SELR000188,Naidu Creations,Bengaluru,Karnataka,2024-05-31,Fashion,4.4,High
+SELR000189,Banerjee Kiddo Textiles,Jaipur,Rajasthan,2023-01-26,Toys & Baby Products,3.7,Low
+SELR000190,Parmar Circuit Impex,Gurugram,Haryana,2025-07-22,Electronics,4.3,Medium
+SELR000191,Rastogi Stores,Dehradun,Uttarakhand,2024-10-14,Toys & Baby Products,4.6,Low
+SELR000192,Grain Bazaar,Prayagraj,Uttar Pradesh,2023-09-09,Grocery,4.6,Medium
+SELR000193,Circuit Bazaar,Coimbatore,Tamil Nadu,2023-11-10,Electronics,4.3,High
+SELR000194,Bhat Enterprises,Mumbai,Maharashtra,2022-09-22,Electronics,3.0,Low
+SELR000195,Organic Ventures,Pune,Maharashtra,2022-09-10,Grocery,4.2,Medium
+SELR000196,Saxena Vogue Industries,Kozhikode,Kerala,2024-03-13,Fashion,3.9,Medium
+SELR000197,Agarwal Glow Solutions,Mumbai,Maharashtra,2022-08-04,Beauty & Personal Care,4.4,Medium
+SELR000198,Toon Traders,Gurugram,Haryana,2024-07-06,Toys & Baby Products,3.8,Low
+SELR000199,Agnihotri Glow Solutions,Solapur,Maharashtra,2023-09-18,Beauty & Personal Care,4.7,Medium
+SELR000200,Bose Nest Enterprises,Gorakhpur,Uttar Pradesh,2022-12-16,Home & Kitchen,4.7,Medium
+SELR000201,Kapoor Traders,Noida,Uttar Pradesh,2024-03-11,Home & Kitchen,4.2,Low
+SELR000202,Tiwari Gadget Collection,Kochi,Kerala,2024-03-31,Electronics,4.1,Low
+SELR000203,Little Stores,Jaipur,Rajasthan,2024-11-06,Toys & Baby Products,4.4,Medium
+SELR000204,Fabric Junction,Vijayawada,Andhra Pradesh,2023-02-20,Fashion,4.5,High
+SELR000205,Rana Traders,Delhi,Delhi,2024-03-25,Fashion,4.4,High
+SELR000206,Trend Impex,Bengaluru,Karnataka,2025-02-26,Fashion,4.4,Medium
+SELR000207,Joy Industries,Ghaziabad,Uttar Pradesh,2023-05-13,Toys & Baby Products,4.7,High
+SELR000208,Kamath Traders,Chennai,Tamil Nadu,2025-02-16,Electronics,3.9,Medium
+SELR000209,Agnihotri Point,Kochi,Kerala,2024-10-11,Grocery,4.6,High
+SELR000210,Bhattacharya Fit Hub,Kolkata,West Bengal,2023-11-11,Sports & Fitness,3.2,Medium
+SELR000211,Pillai Fresh Impex,Ajmer,Rajasthan,2025-04-11,Grocery,3.9,Medium
+SELR000212,Kaul Collection,Raipur,Chhattisgarh,2025-07-16,Toys & Baby Products,3.7,Medium
+SELR000213,Zutshi Harvest Traders,Surat,Gujarat,2023-04-06,Grocery,4.3,Medium
+SELR000214,Rathore Electricals,Guwahati,Assam,2025-07-30,Toys & Baby Products,3.4,Low
+SELR000215,Kaul Textiles,Chennai,Tamil Nadu,2022-07-12,Electronics,3.9,Low
+SELR000216,Kapoor Distributors,Surat,Gujarat,2022-12-04,Books,5.0,Low
+SELR000217,Kamath Radiance Bazaar,Hyderabad,Telangana,2022-08-28,Beauty & Personal Care,4.3,High
+SELR000218,Arora Glow Trading Co,Moradabad,Uttar Pradesh,2023-09-02,Beauty & Personal Care,4.1,High
+SELR000219,Gill Point,Jodhpur,Rajasthan,2025-06-12,Toys & Baby Products,2.9,Low
+SELR000220,Grover Trading Co,Warangal,Telangana,2024-05-24,Toys & Baby Products,4.4,Medium
+SELR000221,Halder Active Overseas,Jammu,Jammu And Kashmir,2024-06-11,Sports & Fitness,4.7,Medium
+SELR000222,Raina Home Textiles,Patiala,Punjab,2022-10-14,Home & Kitchen,3.4,Medium
+SELR000223,Pandey Nest Industries,Chennai,Tamil Nadu,2024-02-18,Home & Kitchen,3.9,Medium
+SELR000224,Dubey Hub,Rourkela,Odisha,2023-09-19,Home & Kitchen,3.3,Low
+SELR000225,Ganguly Retail,Bhopal,Madhya Pradesh,2024-01-07,Home & Kitchen,4.1,Medium
+SELR000226,Rathore Distributors,Noida,Uttar Pradesh,2023-05-03,Home & Kitchen,3.1,Low
+SELR000227,Volt Overseas,Bhopal,Madhya Pradesh,2023-02-24,Electronics,4.8,High
+SELR000228,Gill Emporium,Ahmedabad,Gujarat,2025-06-29,Electronics,4.4,Medium
+SELR000229,Bookish Emporium,Pune,Maharashtra,2024-04-06,Books,3.6,Medium
+SELR000230,Nest Collection,Chennai,Tamil Nadu,2023-10-22,Home & Kitchen,5.0,High
+SELR000231,Roy Global,Mumbai,Maharashtra,2022-10-02,Toys & Baby Products,3.8,High
+SELR000232,Rawat Glow Ventures,Surat,Gujarat,2024-11-25,Beauty & Personal Care,3.9,Medium
+SELR000233,Tech Enterprises,Ajmer,Rajasthan,2023-12-30,Electronics,3.2,Low
+SELR000234,Dutta Global,Chandigarh,Chandigarh,2023-09-23,Fashion,4.0,Medium
+SELR000235,Bose Vogue Wholesale,Kanpur,Uttar Pradesh,2024-08-08,Fashion,4.0,Low
+SELR000236,Vaghela Playful Collection,Noida,Uttar Pradesh,2022-12-07,Toys & Baby Products,4.3,Low
+SELR000237,Ghosh Impex,Lucknow,Uttar Pradesh,2024-03-08,Fashion,4.3,Medium
+SELR000238,Home Point,Hyderabad,Telangana,2025-03-19,Home & Kitchen,3.0,Low
+SELR000239,Thakur Collection,Jodhpur,Rajasthan,2023-12-20,Toys & Baby Products,4.5,High
+SELR000240,Kiddo Marketing,Hyderabad,Telangana,2022-07-10,Toys & Baby Products,4.6,High
+SELR000241,Fabric Hub,Varanasi,Uttar Pradesh,2023-03-29,Fashion,3.7,Low
+SELR000242,Byte Retail,Bhubaneswar,Odisha,2022-09-11,Electronics,4.0,Low
+SELR000243,Raina Wholesale,Patna,Bihar,2024-01-31,Fashion,4.0,Medium
+SELR000244,Volt Mart,Jalandhar,Punjab,2023-08-29,Electronics,4.2,Medium
+SELR000245,Style Textiles,Pune,Maharashtra,2022-12-07,Fashion,3.9,Medium
+SELR000246,Mandal Global,Udaipur,Rajasthan,2024-08-31,Beauty & Personal Care,3.2,Low
+SELR000247,Bose Collection,Amritsar,Punjab,2023-01-27,Toys & Baby Products,3.7,Medium
+SELR000248,Bella Bazaar,Madurai,Tamil Nadu,2023-08-03,Beauty & Personal Care,4.3,Medium
+SELR000249,Radiance Enterprises,Kochi,Kerala,2025-08-08,Beauty & Personal Care,3.8,Medium
+SELR000250,Kaul Overseas,Gwalior,Madhya Pradesh,2022-09-23,Fashion,4.3,Medium
+SELR000251,Parmar Stores,Dimapur,Nagaland,2023-04-18,Grocery,4.0,Medium
+SELR000252,Shah Ventures,Noida,Uttar Pradesh,2023-07-07,Beauty & Personal Care,4.4,Low
+SELR000253,Organic Textiles,Raipur,Chhattisgarh,2024-02-09,Grocery,3.6,Medium
+SELR000254,Bhattacharya Tiny Trading Co,Rajkot,Gujarat,2023-04-15,Toys & Baby Products,3.5,Medium
+SELR000255,Gaikwad Overseas,Jaipur,Rajasthan,2025-07-19,Fashion,3.8,Medium
+SELR000256,Digital Creations,Cuttack,Odisha,2022-07-16,Electronics,3.2,Low
+SELR000257,Jadhav Threads Creations,Gurugram,Haryana,2025-06-24,Fashion,2.6,Low
+SELR000258,Dubey Emporium,Bhopal,Madhya Pradesh,2024-03-10,Home & Kitchen,5.0,High
+SELR000259,Brar Little Hub,Mumbai,Maharashtra,2022-08-22,Toys & Baby Products,4.4,High
+SELR000260,Deshmukh Kitchen Industries,Hyderabad,Telangana,2022-11-19,Home & Kitchen,3.8,Medium
+SELR000261,Pal Scroll Industries,Jabalpur,Madhya Pradesh,2022-11-04,Books,4.2,High
+SELR000262,Chopra Collection,Gurugram,Haryana,2023-06-02,Beauty & Personal Care,2.6,Low
+SELR000263,Das Creations,Gurugram,Haryana,2023-07-24,Fashion,4.6,Medium
+SELR000264,Weave Point,Chennai,Tamil Nadu,2024-07-09,Fashion,4.2,High
+SELR000265,Kaul Overseas,Surat,Gujarat,2023-06-29,Sports & Fitness,3.4,Low
+SELR000266,Chandel Junction,Ranchi,Jharkhand,2024-10-13,Sports & Fitness,4.3,Medium
+SELR000267,Nest Enterprises,Prayagraj,Uttar Pradesh,2023-06-09,Home & Kitchen,3.9,Medium
+SELR000268,Weave Hub,Mumbai,Maharashtra,2023-05-06,Fashion,4.7,Medium
+SELR000269,Power Trading Co,Patna,Bihar,2023-05-19,Sports & Fitness,4.3,High
+SELR000270,Pal Threads Distributors,Lucknow,Uttar Pradesh,2023-07-20,Fashion,4.9,High
+SELR000271,Shetty Mart,Ghaziabad,Uttar Pradesh,2025-02-19,Toys & Baby Products,4.2,High
+SELR000272,Chopra Style Trading Co,Jaipur,Rajasthan,2023-04-17,Fashion,3.8,Medium
+SELR000273,Pandey Collection,Gurugram,Haryana,2023-05-17,Electronics,4.2,High
+SELR000274,Home Retail,Lucknow,Uttar Pradesh,2025-07-04,Home & Kitchen,4.3,Medium
+SELR000275,Sethi Nest Trading Co,Patna,Bihar,2024-07-24,Home & Kitchen,4.2,Medium
+SELR000276,Hegde Kitchen Overseas,Surat,Gujarat,2023-02-12,Home & Kitchen,3.5,Medium
+SELR000277,Nest Ventures,Lucknow,Uttar Pradesh,2025-03-25,Home & Kitchen,3.6,Medium
+SELR000278,Sharma Little Trading Co,Raipur,Chhattisgarh,2023-02-03,Toys & Baby Products,3.1,Medium
+SELR000279,Rao Mart,Vijayawada,Andhra Pradesh,2023-01-10,Home & Kitchen,3.8,Low
+SELR000280,Naidu Nest Bazaar,Ahmedabad,Gujarat,2023-11-29,Home & Kitchen,3.9,Low
+SELR000281,Joshi Creations,Madurai,Tamil Nadu,2024-09-05,Home & Kitchen,4.5,High
+SELR000282,Arora Emporium,Bareilly,Uttar Pradesh,2023-02-10,Electronics,3.4,Medium
+SELR000283,Radiance Mart,Bengaluru,Karnataka,2024-11-14,Beauty & Personal Care,3.6,Medium
+SELR000284,Bhatia Style Impex,Patna,Bihar,2023-01-04,Fashion,3.8,Medium
+SELR000285,Agnihotri Creations,Pune,Maharashtra,2024-12-17,Beauty & Personal Care,3.8,Medium
+SELR000286,Roy Gadget Bazaar,Rajkot,Gujarat,2022-10-27,Electronics,4.0,Medium
+SELR000287,Joy Traders,Chennai,Tamil Nadu,2023-12-21,Toys & Baby Products,4.0,High
+SELR000288,Poojary Living Enterprises,Visakhapatnam,Andhra Pradesh,2024-07-08,Home & Kitchen,4.8,Medium
+SELR000289,Bhagat Industries,Chennai,Tamil Nadu,2023-05-08,Toys & Baby Products,4.0,Medium
+SELR000290,Sood Comfort Textiles,Kanpur,Uttar Pradesh,2024-06-06,Home & Kitchen,4.8,High
+SELR000291,Byte Junction,Aurangabad,Maharashtra,2024-09-02,Electronics,3.2,Low
+SELR000292,Deshmukh Harvest Hub,Kolkata,West Bengal,2024-07-20,Grocery,4.2,High
+SELR000293,Suri Impex,Jammu,Jammu And Kashmir,2023-10-05,Sports & Fitness,3.0,Low
+SELR000294,Banerjee Wholesale,Puducherry,Puducherry,2024-12-07,Books,3.9,High
+SELR000295,Home Marketing,Shimla,Himachal Pradesh,2024-10-21,Home & Kitchen,3.2,Low
+SELR000296,Glow Collection,Bengaluru,Karnataka,2023-07-17,Beauty & Personal Care,3.5,Low
+SELR000297,Sandhu Grain Creations,Raipur,Chhattisgarh,2024-10-23,Grocery,3.8,Low
+SELR000298,Gaikwad Bella Impex,Delhi,Delhi,2025-05-22,Beauty & Personal Care,3.5,Low
+SELR000299,Bajwa Style Retail,Gurugram,Haryana,2025-01-26,Fashion,3.5,Low
+SELR000300,Iyer Sport Wholesale,Siliguri,West Bengal,2024-10-22,Sports & Fitness,3.4,Medium
+SELR000301,Suri Sport Trading Co,Nashik,Maharashtra,2024-11-29,Sports & Fitness,3.3,Low
+SELR000302,Rana Kiddo Retail,Nagpur,Maharashtra,2025-01-12,Toys & Baby Products,4.2,High
+SELR000303,Living Wholesale,Gurugram,Haryana,2023-06-04,Home & Kitchen,4.4,Medium
+SELR000304,Kitchen Electricals,Ranchi,Jharkhand,2024-10-08,Home & Kitchen,3.7,Medium
+SELR000305,Naidu Global,Agra,Uttar Pradesh,2023-02-22,Grocery,3.3,Low
+SELR000306,Kapoor Living Bazaar,Lucknow,Uttar Pradesh,2023-08-22,Home & Kitchen,4.1,Medium
+SELR000307,Ink Traders,Prayagraj,Uttar Pradesh,2025-06-09,Books,4.2,Medium
+SELR000308,Bose Retail,Chennai,Tamil Nadu,2023-05-28,Home & Kitchen,4.3,Medium
+SELR000309,Threads Hub,Bengaluru,Karnataka,2025-02-25,Fashion,4.0,Medium
+SELR000310,Scroll Traders,Coimbatore,Tamil Nadu,2023-11-03,Books,4.9,High
+SELR000311,Verma Emporium,Belagavi,Karnataka,2023-03-06,Electronics,4.3,Medium
+SELR000312,Das Fabric Overseas,Chennai,Tamil Nadu,2022-10-28,Fashion,4.1,Medium
+SELR000313,Kohli Bella Stores,Chennai,Tamil Nadu,2024-03-25,Beauty & Personal Care,4.0,Medium
+SELR000314,Ghosh Chapter Wholesale,Bengaluru,Karnataka,2023-12-06,Books,3.5,Medium
+SELR000315,Pandey Little Collection,Moradabad,Uttar Pradesh,2024-02-12,Toys & Baby Products,4.2,Medium
+SELR000316,Singh Vogue Electricals,Hyderabad,Telangana,2022-08-28,Fashion,4.0,Medium
+SELR000317,Biswas House,Surat,Gujarat,2023-05-11,Electronics,3.9,Medium
+SELR000318,Ghosh Kiddo Industries,Imphal,Manipur,2022-07-14,Toys & Baby Products,4.4,Medium
+SELR000319,Brar Point,Delhi,Delhi,2023-06-19,Fashion,3.5,Medium
+SELR000320,Parmar Creations,Indore,Madhya Pradesh,2025-06-05,Fashion,3.4,Low
+SELR000321,Grover Impex,Kanpur,Uttar Pradesh,2022-12-30,Fashion,3.0,Low
+SELR000322,Charm Ventures,Ranchi,Jharkhand,2024-09-02,Beauty & Personal Care,4.1,Medium
+SELR000323,Dubey Collection,Kolkata,West Bengal,2022-07-16,Toys & Baby Products,3.9,Medium
+SELR000324,Gupta Emporium,Gurugram,Haryana,2024-04-10,Books,3.4,Medium
+SELR000325,Suri Sport Creations,Bengaluru,Karnataka,2025-05-24,Sports & Fitness,3.6,Low
+SELR000326,Fabric Emporium,Rajkot,Gujarat,2023-08-02,Fashion,4.1,Medium
+SELR000327,Trend Ventures,Thiruvananthapuram,Kerala,2023-02-19,Fashion,3.2,Low
+SELR000328,Hearth Textiles,Bengaluru,Karnataka,2024-04-20,Home & Kitchen,3.9,Medium
+SELR000329,Bhat Style Stores,Gurugram,Haryana,2023-05-23,Fashion,3.2,Medium
+SELR000330,Trivedi Marketing,Prayagraj,Uttar Pradesh,2025-04-21,Fashion,3.5,Medium
+SELR000331,Bajwa Global,Delhi,Delhi,2025-03-03,Fashion,4.1,Low
+SELR000332,Ahluwalia Overseas,Pune,Maharashtra,2024-07-22,Electronics,3.6,Medium
+SELR000333,Gaikwad Pure Electricals,Indore,Madhya Pradesh,2024-07-07,Beauty & Personal Care,4.5,Medium
+SELR000334,Active Overseas,Ahmedabad,Gujarat,2024-05-26,Sports & Fitness,3.7,Low
+SELR000335,Halder Mart,Pune,Maharashtra,2024-10-25,Electronics,5.0,High
+SELR000336,Kulkarni Ventures,Jaipur,Rajasthan,2023-12-16,Home & Kitchen,4.2,Medium
+SELR000337,Read Electricals,Bengaluru,Karnataka,2025-07-19,Books,4.9,High
+SELR000338,Bookish Solutions,Nagpur,Maharashtra,2023-08-08,Books,4.0,Low
+SELR000339,Dhillon Marketing,Agra,Uttar Pradesh,2022-07-20,Grocery,4.6,High
+SELR000340,Roy Kitchen Stores,Patna,Bihar,2024-09-13,Home & Kitchen,3.4,Low
+SELR000341,Kapoor Farm Impex,Mumbai,Maharashtra,2024-08-02,Grocery,4.5,High
+SELR000342,Weave Junction,Gwalior,Madhya Pradesh,2025-08-01,Fashion,3.2,Low
+SELR000343,Hearth Marketing,Bengaluru,Karnataka,2023-10-03,Home & Kitchen,4.7,Low
+SELR000344,Chauhan Vogue Impex,Dehradun,Uttarakhand,2023-11-06,Fashion,4.0,Medium
+SELR000345,Negi Wholesale,Kolkata,West Bengal,2024-04-10,Home & Kitchen,3.5,Low
+SELR000346,Home Traders,Thiruvananthapuram,Kerala,2023-09-30,Home & Kitchen,4.1,Low
+SELR000347,Style Junction,Hyderabad,Telangana,2024-12-20,Fashion,3.3,Low
+SELR000348,Bhatia Collection,Hyderabad,Telangana,2023-11-10,Books,4.2,Medium
+SELR000349,Fabric Distributors,Surat,Gujarat,2024-12-19,Fashion,3.6,Medium
+SELR000350,Chowdhury Weave Emporium,Delhi,Delhi,2023-11-07,Fashion,4.5,High
+SELR000351,Ganguly Circuit Traders,Hyderabad,Telangana,2023-03-23,Electronics,4.0,Medium
+SELR000352,Hearth Emporium,Varanasi,Uttar Pradesh,2025-08-12,Home & Kitchen,3.7,Medium
+SELR000353,Chatterjee Style Bazaar,Jabalpur,Madhya Pradesh,2024-03-01,Fashion,4.1,Medium
+SELR000354,Jain Distributors,Mumbai,Maharashtra,2024-09-22,Home & Kitchen,4.1,Medium
+SELR000355,Chandel Vogue Mart,Udaipur,Rajasthan,2024-05-14,Fashion,4.0,Medium
+SELR000356,Chapter Solutions,Madurai,Tamil Nadu,2023-08-23,Books,4.0,Medium
+SELR000357,Toon Junction,Siliguri,West Bengal,2025-07-22,Toys & Baby Products,3.4,Low
+SELR000358,Home Ventures,Ludhiana,Punjab,2023-09-06,Home & Kitchen,3.9,Low
+SELR000359,Karmakar Point,Visakhapatnam,Andhra Pradesh,2025-08-15,Sports & Fitness,4.0,Medium
+SELR000360,Organic Global,Nagpur,Maharashtra,2023-11-13,Grocery,3.8,Medium
+SELR000361,Poojary Wholesale,Coimbatore,Tamil Nadu,2022-08-04,Toys & Baby Products,2.8,Low
+SELR000362,Radiance Electricals,Dhanbad,Jharkhand,2022-08-20,Beauty & Personal Care,4.3,High
+SELR000363,Poojary Toon Wholesale,Mumbai,Maharashtra,2025-07-23,Toys & Baby Products,4.5,High
+SELR000364,Kiddo Mart,Ahmedabad,Gujarat,2024-03-02,Toys & Baby Products,5.0,High
+SELR000365,Raina Bazaar,Mumbai,Maharashtra,2023-09-24,Books,4.7,Medium
+SELR000366,Bhan Home Textiles,Solapur,Maharashtra,2025-01-19,Home & Kitchen,3.5,Medium
+SELR000367,Tech Solutions,Jaipur,Rajasthan,2024-06-12,Electronics,4.6,Low
+SELR000368,Gadget Textiles,Visakhapatnam,Andhra Pradesh,2024-08-01,Electronics,4.1,Medium
+SELR000369,Home Marketing,Jabalpur,Madhya Pradesh,2024-08-29,Home & Kitchen,4.1,Medium
+SELR000370,Ahluwalia Comfort Stores,Imphal,Manipur,2023-02-21,Home & Kitchen,3.0,Low
+SELR000371,Chatterjee Home Mart,Bengaluru,Karnataka,2022-10-18,Home & Kitchen,3.3,Low
+SELR000372,Mishra Radiance Retail,Madurai,Tamil Nadu,2024-10-16,Beauty & Personal Care,3.8,Medium
+SELR000373,Zutshi Hub,Ajmer,Rajasthan,2022-08-03,Beauty & Personal Care,4.1,Medium
+SELR000374,Kohli Harvest Ventures,Delhi,Delhi,2024-10-07,Grocery,3.3,Medium
+SELR000375,Sandhu Volt Ventures,Bhubaneswar,Odisha,2022-12-05,Electronics,4.0,Medium
+SELR000376,Reddy Impex,Kolkata,West Bengal,2023-05-05,Fashion,4.3,High
+SELR000377,Patel Chapter Stores,Coimbatore,Tamil Nadu,2024-09-23,Books,1.9,Low
+SELR000378,Dutta Bazaar,Kanpur,Uttar Pradesh,2024-06-19,Grocery,3.4,Medium
+SELR000379,Mehta Joy Overseas,Chennai,Tamil Nadu,2024-12-16,Toys & Baby Products,4.1,Medium
+SELR000380,Dey Daily Creations,Bengaluru,Karnataka,2024-06-05,Grocery,3.2,Low
+SELR000381,Kamath Toon Global,Mumbai,Maharashtra,2022-09-02,Toys & Baby Products,4.1,Medium
+SELR000382,Dar Weave Wholesale,Mumbai,Maharashtra,2025-02-21,Fashion,4.1,Low
+SELR000383,Iyengar Living Stores,Chandigarh,Chandigarh,2023-03-12,Home & Kitchen,2.8,Low
+SELR000384,Rawat Junction,Kolkata,West Bengal,2022-12-12,Fashion,4.4,Medium
+SELR000385,Srivastava Electricals,Hyderabad,Telangana,2025-04-06,Beauty & Personal Care,4.2,Medium
+SELR000386,Toon Solutions,Nashik,Maharashtra,2023-02-17,Toys & Baby Products,4.1,Low
+SELR000387,Sen Retail,Nashik,Maharashtra,2024-03-12,Fashion,3.6,Low
+SELR000388,Sen Radiance Bazaar,Nagpur,Maharashtra,2024-01-15,Beauty & Personal Care,3.2,Low
+SELR000389,Pillai Global,Salem,Tamil Nadu,2024-12-03,Fashion,4.5,High
+SELR000390,Gupta Vogue Bazaar,Gurugram,Haryana,2022-08-29,Fashion,3.5,Low
+SELR000391,Agarwal Weave Junction,Jabalpur,Madhya Pradesh,2022-11-08,Fashion,4.3,Medium
+SELR000392,Digital Bazaar,Mumbai,Maharashtra,2023-10-26,Electronics,4.8,High
+SELR000393,Joy Overseas,Rajkot,Gujarat,2023-12-31,Toys & Baby Products,3.7,Medium
+SELR000394,Das Overseas,Puducherry,Puducherry,2024-12-24,Home & Kitchen,4.2,Medium
+SELR000395,Rawat Harvest Enterprises,Gwalior,Madhya Pradesh,2024-05-30,Grocery,4.5,High
+SELR000396,Mandal Enterprises,Patna,Bihar,2022-12-26,Sports & Fitness,4.3,Medium
+SELR000397,Weave Traders,Chandigarh,Chandigarh,2025-07-29,Fashion,2.9,Low
+SELR000398,Fabric Industries,Kolkata,West Bengal,2023-12-16,Fashion,4.0,Medium
+SELR000399,Halder Ventures,Visakhapatnam,Andhra Pradesh,2025-07-13,Grocery,4.2,Medium
+SELR000400,Biswas Solutions,Dehradun,Uttarakhand,2025-08-11,Fashion,4.1,Medium
+SELR000401,Dey Tiny Junction,Margao,Goa,2022-09-06,Toys & Baby Products,4.2,Medium
+SELR000402,Trivedi Stores,Surat,Gujarat,2024-02-06,Fashion,2.4,Low
+SELR000403,Bisht Active Wholesale,Delhi,Delhi,2023-11-03,Sports & Fitness,3.7,Low
+SELR000404,Malhotra Ventures,Vadodara,Gujarat,2024-01-29,Grocery,4.5,High
+SELR000405,Sen Global,Mumbai,Maharashtra,2023-06-28,Fashion,3.9,Low
+SELR000406,Patel Textiles,Chennai,Tamil Nadu,2024-04-07,Fashion,3.9,Low
+SELR000407,Das Tiny Bazaar,Ahmedabad,Gujarat,2024-01-22,Toys & Baby Products,4.1,Medium
+SELR000408,Biswas Marketing,Amritsar,Punjab,2023-02-07,Fashion,3.6,Low
+SELR000409,Verma Comfort Marketing,Hyderabad,Telangana,2023-06-03,Home & Kitchen,4.9,High
+SELR000410,Home Textiles,Bengaluru,Karnataka,2022-12-24,Home & Kitchen,3.8,Low
+SELR000411,Trend Textiles,Delhi,Delhi,2025-02-25,Fashion,4.3,Medium
+SELR000412,Yadav Bazaar,Shimla,Himachal Pradesh,2024-08-20,Books,3.3,Medium
+SELR000413,Malhotra Traders,Ludhiana,Punjab,2023-09-24,Books,4.4,High
+SELR000414,Banerjee Stores,Delhi,Delhi,2023-10-04,Home & Kitchen,3.3,Low
+SELR000415,Fresh Emporium,Delhi,Delhi,2022-10-08,Grocery,4.4,High
+SELR000416,Kaul Trend Point,Indore,Madhya Pradesh,2023-06-05,Fashion,3.7,Medium
+SELR000417,Malhotra Byte Retail,Pune,Maharashtra,2025-05-28,Electronics,3.7,High
+SELR000418,Bhatt Radiance Mart,Vadodara,Gujarat,2022-08-14,Beauty & Personal Care,5.0,Low
+SELR000419,Mishra Tiny House,Noida,Uttar Pradesh,2022-12-23,Toys & Baby Products,4.1,Medium
+SELR000420,Digital Hub,Jamshedpur,Jharkhand,2025-02-28,Electronics,3.2,Low
+SELR000421,Mehta Traders,Pune,Maharashtra,2024-02-23,Fashion,4.1,Medium
+SELR000422,Hearth Textiles,Visakhapatnam,Andhra Pradesh,2022-08-15,Home & Kitchen,4.2,High
+SELR000423,Agnihotri Wholesale,Delhi,Delhi,2024-01-19,Grocery,4.4,High
+SELR000424,Deshmukh Circuit Overseas,Bikaner,Rajasthan,2024-11-10,Electronics,4.5,High
+SELR000425,Comfort Global,Mangaluru,Karnataka,2023-08-07,Home & Kitchen,3.8,Medium
+SELR000426,Scroll Stores,Rajkot,Gujarat,2023-09-18,Books,3.9,Low
+SELR000427,Rathore Wholesale,Lucknow,Uttar Pradesh,2024-06-28,Home & Kitchen,4.5,Medium
+SELR000428,Weave Bazaar,Hyderabad,Telangana,2024-05-22,Fashion,3.1,Low
+SELR000429,Rawat Style Textiles,Ranchi,Jharkhand,2025-05-04,Fashion,4.5,High
+SELR000430,Home Electricals,Rajkot,Gujarat,2023-04-18,Home & Kitchen,3.5,Low
+SELR000431,Sethi Nest Textiles,Hyderabad,Telangana,2023-05-20,Home & Kitchen,4.2,Low
+SELR000432,Lone Bazaar,Jaipur,Rajasthan,2023-01-03,Grocery,2.8,Low
+SELR000433,Das Solutions,Lucknow,Uttar Pradesh,2024-08-06,Sports & Fitness,4.1,Medium
+SELR000434,Parmar House,Jodhpur,Rajasthan,2024-03-09,Sports & Fitness,2.7,Low
+SELR000435,Mishra Joy Wholesale,Nashik,Maharashtra,2023-08-09,Toys & Baby Products,4.4,High
+SELR000436,Hearth Marketing,Coimbatore,Tamil Nadu,2024-09-10,Home & Kitchen,3.6,Medium
+SELR000437,Comfort Trading Co,Coimbatore,Tamil Nadu,2023-09-12,Home & Kitchen,4.1,High
+SELR000438,Parmar Playful Retail,Chennai,Tamil Nadu,2023-02-17,Toys & Baby Products,4.5,Medium
+SELR000439,Mishra Wholesale,Kolkata,West Bengal,2024-03-16,Fashion,3.5,Low
+SELR000440,Dar Collection,Delhi,Delhi,2023-11-19,Sports & Fitness,4.2,Medium
+SELR000441,Solanki Wholesale,Thiruvananthapuram,Kerala,2023-10-15,Books,3.1,Low
+SELR000442,Tiwari Byte Electricals,Noida,Uttar Pradesh,2023-11-28,Electronics,4.1,Medium
+SELR000443,Joshi Creations,Jaipur,Rajasthan,2025-05-17,Home & Kitchen,3.3,Low
+SELR000444,Threads Distributors,Chennai,Tamil Nadu,2023-03-13,Fashion,3.7,Medium
+SELR000445,Hegde Trend Junction,Hyderabad,Telangana,2023-05-20,Fashion,4.0,Medium
+SELR000446,Dhillon Comfort Solutions,Patna,Bihar,2024-04-14,Home & Kitchen,3.0,Low
+SELR000447,Vogue Global,Chennai,Tamil Nadu,2022-09-01,Fashion,2.7,Low
+SELR000448,Bookish Mart,Mumbai,Maharashtra,2022-12-23,Books,4.9,Medium
+SELR000449,Patil Playful Mart,Dehradun,Uttarakhand,2024-04-15,Toys & Baby Products,4.1,High
+SELR000450,Organic Retail,Kolkata,West Bengal,2024-02-11,Grocery,3.7,Medium
+SELR000451,Agnihotri Textiles,Kolkata,West Bengal,2024-07-23,Fashion,4.7,High
+SELR000452,Bhat Weave Junction,Noida,Uttar Pradesh,2022-11-16,Fashion,2.6,Low
+SELR000453,Style Ventures,Raipur,Chhattisgarh,2025-03-09,Fashion,4.2,Low
+SELR000454,Bose Circuit Solutions,Ahmedabad,Gujarat,2024-01-14,Electronics,4.0,Medium
+SELR000455,Agarwal Enterprises,Bhubaneswar,Odisha,2023-01-02,Toys & Baby Products,4.5,High
+SELR000456,Gaikwad Comfort Junction,Tiruchirappalli,Tamil Nadu,2023-06-30,Home & Kitchen,4.2,Medium
+SELR000457,Chatterjee Vogue Impex,Kochi,Kerala,2023-03-26,Fashion,3.9,Low
+SELR000458,Shah Bazaar,Noida,Uttar Pradesh,2023-12-07,Grocery,3.9,Medium
+SELR000459,Desai Solutions,Vijayawada,Andhra Pradesh,2023-12-27,Home & Kitchen,3.2,Low
+SELR000460,Tiwari Impex,Jaipur,Rajasthan,2023-11-16,Electronics,5.0,Medium
+SELR000461,Sethi Style Industries,Noida,Uttar Pradesh,2023-12-17,Fashion,4.2,Medium
+SELR000462,Dhillon Pure Marketing,Nagpur,Maharashtra,2025-05-10,Beauty & Personal Care,4.7,High
+SELR000463,Poojary Mart,Ahmedabad,Gujarat,2025-07-07,Books,2.9,Low
+SELR000464,Threads Impex,Mumbai,Maharashtra,2024-01-19,Fashion,3.8,Medium
+SELR000465,Poojary Toon Impex,Noida,Uttar Pradesh,2025-07-11,Toys & Baby Products,3.9,Medium
+SELR000466,Mehta Harvest Creations,Mumbai,Maharashtra,2025-01-28,Grocery,3.8,Medium
+SELR000467,Deshmukh Solutions,Gurugram,Haryana,2025-01-29,Grocery,4.0,Medium
+SELR000468,Menon Retail,Indore,Madhya Pradesh,2023-03-24,Fashion,3.8,Low
+SELR000469,Volt Collection,Rourkela,Odisha,2023-11-21,Electronics,4.2,High
+SELR000470,Khanna Farm Retail,Delhi,Delhi,2023-08-15,Grocery,3.9,Medium
+SELR000471,Gupta Style Distributors,Faridabad,Haryana,2022-10-27,Fashion,3.6,Medium
+SELR000472,Patil Electricals,Jaipur,Rajasthan,2022-10-03,Beauty & Personal Care,4.5,Medium
+SELR000473,Ink Industries,Delhi,Delhi,2024-06-18,Books,4.3,High
+SELR000474,Pandey Gadget Bazaar,Chennai,Tamil Nadu,2023-11-01,Electronics,4.7,High
+SELR000475,Read Ventures,Mumbai,Maharashtra,2025-02-05,Books,4.2,Medium
+SELR000476,Kiddo Ventures,Hyderabad,Telangana,2024-08-10,Toys & Baby Products,4.4,Medium
+SELR000477,Fit Ventures,Pune,Maharashtra,2022-10-15,Sports & Fitness,3.2,Medium
+SELR000478,Dey Enterprises,Gurugram,Haryana,2025-02-19,Home & Kitchen,3.7,Medium
+SELR000479,Bhattacharya Harvest Overseas,Nagpur,Maharashtra,2024-01-26,Grocery,4.0,Medium
+SELR000480,Roy House,Delhi,Delhi,2024-04-15,Beauty & Personal Care,4.3,Medium
+SELR000481,Tiwari Impex,Bengaluru,Karnataka,2025-07-14,Books,3.8,Medium
+SELR000482,Fresh Solutions,Mumbai,Maharashtra,2024-07-08,Grocery,3.7,Medium
+SELR000483,Page Stores,Indore,Madhya Pradesh,2022-08-04,Books,4.3,Medium
+SELR000484,Singh Threads Bazaar,Ahmedabad,Gujarat,2023-01-28,Fashion,3.8,Medium
+SELR000485,Thakur Marketing,Indore,Madhya Pradesh,2023-11-08,Electronics,4.4,High
+SELR000486,Kohli Retail,Hyderabad,Telangana,2022-08-21,Fashion,3.6,Medium
+SELR000487,Khanna Home Electricals,Delhi,Delhi,2023-01-16,Home & Kitchen,3.5,Medium
+SELR000488,Pillai Solutions,Tiruchirappalli,Tamil Nadu,2024-12-28,Home & Kitchen,4.3,Medium
+SELR000489,Pure Wholesale,Mumbai,Maharashtra,2022-12-19,Beauty & Personal Care,4.1,Medium
+SELR000490,Rao Nest Stores,Bengaluru,Karnataka,2023-01-16,Home & Kitchen,4.3,Medium
+SELR000491,Pal Read Textiles,Bengaluru,Karnataka,2024-02-05,Books,2.8,Low
+SELR000492,Bhagat Joy Global,Mangaluru,Karnataka,2022-10-21,Toys & Baby Products,3.7,Medium
+SELR000493,Mandal Threads Industries,Faridabad,Haryana,2023-04-27,Fashion,4.5,Medium
+SELR000494,Chapter Collection,Ghaziabad,Uttar Pradesh,2025-06-12,Books,3.5,Medium
+SELR000495,Power Distributors,Puducherry,Puducherry,2024-06-28,Sports & Fitness,3.9,Low
+SELR000496,Patil Bella Solutions,Mumbai,Maharashtra,2025-07-12,Beauty & Personal Care,4.0,Medium
+SELR000497,Naidu Threads Mart,Hubballi,Karnataka,2023-08-17,Fashion,4.3,Medium
+SELR000498,Dar Enterprises,Hyderabad,Telangana,2024-06-11,Books,3.8,Medium
+SELR000499,Bose Playful Bazaar,Faridabad,Haryana,2023-04-07,Toys & Baby Products,3.7,Medium
+SELR000500,Arora Sport Mart,Noida,Uttar Pradesh,2023-09-14,Sports & Fitness,3.9,Medium
+SELR000501,Raina Hub,Gurugram,Haryana,2023-01-25,Toys & Baby Products,3.6,Low
+SELR000502,Parmar House,Rourkela,Odisha,2025-02-13,Toys & Baby Products,3.3,Low
+SELR000503,Agarwal Global,Bengaluru,Karnataka,2023-02-04,Fashion,3.9,Low
+SELR000504,Chauhan Bloom Wholesale,Panaji,Goa,2023-02-28,Beauty & Personal Care,4.2,Medium
+SELR000505,Dar Home Retail,Kolkata,West Bengal,2023-12-20,Home & Kitchen,3.6,Medium
+SELR000506,Joy Collection,Coimbatore,Tamil Nadu,2023-11-11,Toys & Baby Products,3.1,Low
+SELR000507,Byte Global,Nellore,Andhra Pradesh,2023-07-02,Electronics,4.2,Medium
+SELR000508,Joshi Kitchen Industries,Delhi,Delhi,2023-08-20,Home & Kitchen,3.7,Low
+SELR000509,Kamath Ventures,Jamshedpur,Jharkhand,2023-06-11,Grocery,4.2,Medium
+SELR000510,Gaikwad Textiles,Bhopal,Madhya Pradesh,2025-05-15,Fashion,4.0,High
+SELR000511,Bookish Textiles,Ludhiana,Punjab,2024-05-01,Books,4.4,High
+SELR000512,Sood Comfort Marketing,Bengaluru,Karnataka,2025-05-23,Home & Kitchen,3.2,Low
+SELR000513,Chandel Creations,Nagpur,Maharashtra,2025-08-07,Toys & Baby Products,4.5,High
+SELR000514,Joy Solutions,Visakhapatnam,Andhra Pradesh,2024-07-21,Toys & Baby Products,4.0,Medium
+SELR000515,Dubey Distributors,Jaipur,Rajasthan,2025-02-05,Fashion,4.0,Medium
+SELR000516,Rastogi Enterprises,Bengaluru,Karnataka,2022-11-13,Books,3.9,Medium
+SELR000517,Trivedi Industries,Chennai,Tamil Nadu,2025-06-26,Fashion,4.2,Medium
+SELR000518,Patel Radiance Impex,Bareilly,Uttar Pradesh,2024-01-10,Beauty & Personal Care,3.2,Low
+SELR000519,Chowdhury Active Trading Co,Delhi,Delhi,2024-09-30,Sports & Fitness,4.9,High
+SELR000520,Fresh Impex,Agra,Uttar Pradesh,2023-04-15,Grocery,3.7,Low
+SELR000521,Sharma Enterprises,Margao,Goa,2022-10-26,Electronics,3.3,Low
+SELR000522,Fabric Collection,Delhi,Delhi,2025-04-13,Fashion,4.4,Medium
+SELR000523,Chandra Stores,Bengaluru,Karnataka,2023-12-04,Sports & Fitness,4.1,Medium
+SELR000524,Chauhan Bloom Distributors,Visakhapatnam,Andhra Pradesh,2022-12-14,Beauty & Personal Care,3.6,Medium
+SELR000525,Bhat Kitchen Solutions,Delhi,Delhi,2024-07-29,Home & Kitchen,4.4,High
+SELR000526,Gadget Industries,Vadodara,Gujarat,2022-09-09,Electronics,3.4,Medium
+SELR000527,Chatterjee Electricals,Nashik,Maharashtra,2023-12-05,Fashion,3.7,Low
+SELR000528,Kohli Junction,Patna,Bihar,2024-09-20,Grocery,3.2,Low
+SELR000529,Iyer Retail,Kolkata,West Bengal,2024-10-08,Electronics,3.5,Low
+SELR000530,Das Comfort Ventures,Ludhiana,Punjab,2023-12-08,Home & Kitchen,4.6,Medium
+SELR000531,Tiny Point,Vadodara,Gujarat,2023-09-04,Toys & Baby Products,3.6,Medium
+SELR000532,Nair Distributors,Hyderabad,Telangana,2025-02-19,Electronics,3.2,Low
+SELR000533,Bhatia Retail,Bhopal,Madhya Pradesh,2023-02-05,Books,4.8,Medium
+SELR000534,Jain Marketing,Udaipur,Rajasthan,2022-10-03,Fashion,4.4,Medium
+SELR000535,Trivedi Electricals,Kochi,Kerala,2023-01-04,Grocery,4.9,High
+SELR000536,Shah Page Ventures,Lucknow,Uttar Pradesh,2025-01-08,Books,3.6,Medium
+SELR000537,Joshi Kiddo Solutions,Ahmedabad,Gujarat,2023-12-27,Toys & Baby Products,3.5,Medium
+SELR000538,Weave Textiles,Mumbai,Maharashtra,2022-08-21,Fashion,3.9,Medium
+SELR000539,Glow Collection,Chennai,Tamil Nadu,2023-01-18,Beauty & Personal Care,3.8,Medium
+SELR000540,Kohli Page Junction,Delhi,Delhi,2022-08-10,Books,3.4,Low
+SELR000541,Kumar Vogue Marketing,Puducherry,Puducherry,2025-01-23,Fashion,3.4,Low
+SELR000542,Chakraborty Hub,Hyderabad,Telangana,2023-12-17,Fashion,4.0,Medium
+SELR000543,Jain Gadget Hub,Raipur,Chhattisgarh,2022-09-25,Electronics,3.9,Low
+SELR000544,Toon Emporium,Bengaluru,Karnataka,2023-03-19,Toys & Baby Products,3.7,Low
+SELR000545,Bhattacharya Junction,Pune,Maharashtra,2024-06-11,Sports & Fitness,4.6,High
+SELR000546,Charm Global,Noida,Uttar Pradesh,2024-05-16,Beauty & Personal Care,3.9,Medium
+SELR000547,Dhillon Junction,Ahmedabad,Gujarat,2025-01-28,Books,3.9,Medium
+SELR000548,Rathore House,Madurai,Tamil Nadu,2022-08-08,Beauty & Personal Care,4.1,High
+SELR000549,Kulkarni Distributors,Patiala,Punjab,2022-09-27,Home & Kitchen,3.9,Low
+SELR000550,Comfort Wholesale,Jammu,Jammu And Kashmir,2022-08-19,Home & Kitchen,3.4,Medium
+SELR000551,Rastogi Impex,Bengaluru,Karnataka,2023-10-02,Sports & Fitness,4.1,Medium
+SELR000552,Malhotra Fabric Solutions,Guwahati,Assam,2024-10-15,Fashion,4.2,Medium
+SELR000553,Kiddo Solutions,Bengaluru,Karnataka,2024-08-03,Toys & Baby Products,4.0,Medium
+SELR000554,Saxena Farm Overseas,Kozhikode,Kerala,2023-03-06,Grocery,3.9,Low
+SELR000555,Jain Trading Co,Kanpur,Uttar Pradesh,2024-07-28,Fashion,4.2,High
+SELR000556,Tiwari Ventures,Ahmedabad,Gujarat,2024-07-27,Beauty & Personal Care,3.6,Medium
+SELR000557,Weave Collection,Bengaluru,Karnataka,2023-02-13,Fashion,4.2,Medium
+SELR000558,Pillai Trading Co,Delhi,Delhi,2024-11-10,Toys & Baby Products,4.1,Medium
+SELR000559,Bisht Playful Collection,Chennai,Tamil Nadu,2023-11-03,Toys & Baby Products,4.2,Medium
+SELR000560,Little Hub,Kozhikode,Kerala,2022-09-15,Toys & Baby Products,4.6,Medium
+SELR000561,Kamath Distributors,Mysuru,Karnataka,2023-09-28,Fashion,4.4,High
+SELR000562,Rana Trend Impex,Nellore,Andhra Pradesh,2024-12-03,Fashion,3.8,Medium
+SELR000563,Bansal Style Junction,Mumbai,Maharashtra,2024-09-10,Fashion,3.1,Low
+SELR000564,Pandey Byte Traders,Vadodara,Gujarat,2023-05-12,Electronics,3.8,Medium
+SELR000565,Volt Junction,Chennai,Tamil Nadu,2024-11-18,Electronics,4.1,Medium
+SELR000566,Digital Collection,Indore,Madhya Pradesh,2023-09-27,Electronics,3.5,Medium
+SELR000567,Playful Creations,Ahmedabad,Gujarat,2023-12-16,Toys & Baby Products,3.1,Low
+SELR000568,Dey Gadget House,Pune,Maharashtra,2022-10-16,Electronics,4.6,High
+SELR000569,Kumar Byte Distributors,Patna,Bihar,2025-08-19,Electronics,4.1,Medium
+SELR000570,Solanki Emporium,Hyderabad,Telangana,2025-02-20,Grocery,3.4,Medium
+SELR000571,Yadav Mart,Lucknow,Uttar Pradesh,2023-02-17,Beauty & Personal Care,4.2,Medium
+SELR000572,Joshi House,Coimbatore,Tamil Nadu,2024-04-09,Books,3.8,Low
+SELR000573,Singh Bazaar,Bengaluru,Karnataka,2024-12-15,Beauty & Personal Care,4.4,Medium
+SELR000574,Rana Stores,Rourkela,Odisha,2024-02-05,Toys & Baby Products,2.6,Low
+SELR000575,Iyengar Wholesale,Surat,Gujarat,2023-03-07,Beauty & Personal Care,3.4,Low
+SELR000576,Shetty Bella Traders,Raipur,Chhattisgarh,2025-07-18,Beauty & Personal Care,4.0,Medium
+SELR000577,Active Distributors,Kochi,Kerala,2023-05-12,Sports & Fitness,4.3,Low
+SELR000578,Kamath Hearth Bazaar,Agra,Uttar Pradesh,2023-07-26,Home & Kitchen,4.4,Medium
+SELR000579,Bhagat Creations,Agra,Uttar Pradesh,2023-09-06,Fashion,3.0,Low
+SELR000580,Bhan Wholesale,Jammu,Jammu And Kashmir,2025-04-20,Home & Kitchen,3.9,Medium
+SELR000581,Weave Solutions,Ghaziabad,Uttar Pradesh,2024-01-31,Fashion,4.2,Medium
+SELR000582,Jadhav Point,Pune,Maharashtra,2024-10-07,Books,3.6,Medium
+SELR000583,Fabric Textiles,Mumbai,Maharashtra,2025-05-02,Fashion,4.5,High
+SELR000584,Bhatt Retail,Ghaziabad,Uttar Pradesh,2025-06-02,Fashion,4.1,Medium
+SELR000585,Roy Trend Industries,Mumbai,Maharashtra,2025-03-12,Fashion,3.4,Low
+SELR000586,Grain Traders,Chennai,Tamil Nadu,2025-05-09,Grocery,3.6,Medium
+SELR000587,Rastogi Mart,Delhi,Delhi,2025-06-24,Fashion,4.3,Medium
+SELR000588,Rao Fit Junction,Indore,Madhya Pradesh,2025-08-12,Sports & Fitness,4.2,Medium
+SELR000589,Nair Ventures,Bengaluru,Karnataka,2024-07-12,Grocery,3.6,Medium
+SELR000590,Parmar Digital Junction,Ghaziabad,Uttar Pradesh,2022-12-07,Electronics,4.8,High
+SELR000591,Chandra Textiles,Mysuru,Karnataka,2022-11-16,Books,3.4,Low
+SELR000592,Rawat Vogue Bazaar,Jodhpur,Rajasthan,2025-01-02,Fashion,4.6,Medium
+SELR000593,Brar Marketing,Pune,Maharashtra,2023-07-05,Fashion,4.3,Medium
+SELR000594,Sport Electricals,Indore,Madhya Pradesh,2025-01-12,Sports & Fitness,3.9,Medium
+SELR000595,Chowdhury Enterprises,Bhopal,Madhya Pradesh,2025-06-09,Toys & Baby Products,4.8,High
+SELR000596,Verma Point,Lucknow,Uttar Pradesh,2024-07-13,Fashion,3.5,Medium
+SELR000597,Wani Bella Marketing,Kochi,Kerala,2024-11-27,Beauty & Personal Care,2.9,Low
+SELR000598,Bose Bazaar,Hyderabad,Telangana,2023-05-23,Fashion,4.0,Medium
+SELR000599,Kulkarni Bella Ventures,Mangaluru,Karnataka,2023-11-17,Beauty & Personal Care,3.1,Low
+SELR000600,Halder Bloom Industries,Mumbai,Maharashtra,2025-07-14,Beauty & Personal Care,4.0,Medium
+SELR000601,Naidu Enterprises,Meerut,Uttar Pradesh,2025-01-26,Beauty & Personal Care,4.1,Medium
+SELR000602,Bhat Emporium,Vadodara,Gujarat,2023-02-28,Beauty & Personal Care,3.0,Low
+SELR000603,Bhattacharya Impex,Chennai,Tamil Nadu,2025-06-11,Electronics,3.8,Low
+SELR000604,Active Global,Vijayawada,Andhra Pradesh,2024-01-30,Sports & Fitness,3.1,Low
+SELR000605,Thakur Collection,Mumbai,Maharashtra,2025-02-26,Sports & Fitness,3.1,Low
+SELR000606,Power Bazaar,Guwahati,Assam,2024-02-24,Sports & Fitness,3.3,Low
+SELR000607,Zutshi Volt House,Vadodara,Gujarat,2024-05-28,Electronics,4.0,Low
+SELR000608,Verma Mart,Mumbai,Maharashtra,2023-01-10,Home & Kitchen,4.2,High
+SELR000609,Kitchen Global,Mumbai,Maharashtra,2023-07-31,Home & Kitchen,3.5,Low
+SELR000610,Poojary Volt Wholesale,Vijayawada,Andhra Pradesh,2024-10-10,Electronics,3.7,Medium
+SELR000611,Trivedi Ventures,Pune,Maharashtra,2025-02-24,Fashion,4.1,Medium
+SELR000612,Roy House,Prayagraj,Uttar Pradesh,2022-10-19,Home & Kitchen,4.5,Medium
+SELR000613,Bhatia Ink Emporium,Bhubaneswar,Odisha,2022-10-05,Books,4.2,Low
+SELR000614,Sethi Trend Impex,Ludhiana,Punjab,2024-09-07,Fashion,3.8,Low
+SELR000615,Kaul Harvest Junction,Pune,Maharashtra,2023-12-01,Grocery,4.1,Medium
+SELR000616,Radiance Retail,Agra,Uttar Pradesh,2025-03-03,Beauty & Personal Care,3.5,Low
+SELR000617,Read Creations,Aurangabad,Maharashtra,2022-09-25,Books,3.1,Low
+SELR000618,Kitchen Textiles,Mumbai,Maharashtra,2023-08-12,Home & Kitchen,4.1,Medium
+SELR000619,Verma Home Collection,Ahmedabad,Gujarat,2022-08-19,Home & Kitchen,4.6,High
+SELR000620,Das Glow Point,Chennai,Tamil Nadu,2024-09-25,Beauty & Personal Care,4.9,High
+SELR000621,Joy Collection,Gurugram,Haryana,2025-03-13,Toys & Baby Products,4.5,Low
+SELR000622,Saxena Electricals,Rajkot,Gujarat,2023-01-04,Home & Kitchen,4.5,Medium
+SELR000623,Charm Mart,Lucknow,Uttar Pradesh,2023-07-14,Beauty & Personal Care,4.2,Low
+SELR000624,Parmar Retail,Bhopal,Madhya Pradesh,2025-02-28,Beauty & Personal Care,4.1,Medium
+SELR000625,Biswas Global,Ahmedabad,Gujarat,2022-08-26,Books,3.3,Low
+SELR000626,Digital House,Bengaluru,Karnataka,2025-06-29,Electronics,3.7,Medium
+SELR000627,Living Emporium,Chennai,Tamil Nadu,2025-04-16,Home & Kitchen,3.3,Low
+SELR000628,Zutshi Home Enterprises,Moradabad,Uttar Pradesh,2022-12-31,Home & Kitchen,4.5,High
+SELR000629,Solanki Electricals,Ghaziabad,Uttar Pradesh,2022-12-15,Toys & Baby Products,3.5,Medium
+SELR000630,Trivedi Industries,Kolkata,West Bengal,2024-09-05,Home & Kitchen,3.6,Low
+SELR000631,Bajwa Comfort Enterprises,Mysuru,Karnataka,2022-07-21,Home & Kitchen,3.6,Low
+SELR000632,Toon Marketing,Mumbai,Maharashtra,2024-02-06,Toys & Baby Products,4.4,Low
+SELR000633,Iyengar Comfort Wholesale,Chennai,Tamil Nadu,2022-09-23,Home & Kitchen,4.9,High
+SELR000634,Mishra House,Chennai,Tamil Nadu,2024-03-06,Fashion,4.1,Medium
+SELR000635,Fabric Wholesale,Thrissur,Kerala,2023-08-13,Fashion,4.7,High
+SELR000636,Tiwari Industries,Agra,Uttar Pradesh,2024-09-22,Electronics,4.0,High
+SELR000637,Rawat Traders,Faridabad,Haryana,2025-04-09,Electronics,3.9,Medium
+SELR000638,Poojary Comfort Emporium,Delhi,Delhi,2024-01-18,Home & Kitchen,2.7,Low
+SELR000639,Chowdhury Bookish Stores,Hyderabad,Telangana,2024-07-10,Books,3.8,Low
+SELR000640,Ink Wholesale,Chandigarh,Chandigarh,2024-05-24,Books,3.0,Low
+SELR000641,Bisht Marketing,Kolkata,West Bengal,2025-08-05,Electronics,3.5,Low
+SELR000642,Jain Radiance Hub,Jamshedpur,Jharkhand,2023-03-30,Beauty & Personal Care,4.1,Low
+SELR000643,Gill Vogue Enterprises,Dehradun,Uttarakhand,2023-04-08,Fashion,4.8,High
+SELR000644,Dutta Kiddo Retail,Jaipur,Rajasthan,2023-09-14,Toys & Baby Products,3.9,Medium
+SELR000645,Chandra Fabric Textiles,Vijayawada,Andhra Pradesh,2024-10-26,Fashion,3.7,Medium
+SELR000646,Bella Impex,Hubballi,Karnataka,2025-03-22,Beauty & Personal Care,3.3,Low
+SELR000647,Dubey Industries,Jaipur,Rajasthan,2023-05-23,Fashion,4.3,High
+SELR000648,Deshmukh Athletic Bazaar,Coimbatore,Tamil Nadu,2022-11-12,Sports & Fitness,4.1,Medium
+SELR000649,Kitchen Impex,Dhanbad,Jharkhand,2024-06-02,Home & Kitchen,4.1,Medium
+SELR000650,Pal Electricals,Chennai,Tamil Nadu,2024-05-21,Books,4.8,High
+SELR000651,Joshi Fabric Creations,Ajmer,Rajasthan,2023-09-10,Fashion,3.9,Medium
+SELR000652,Kohli Toon Wholesale,Mumbai,Maharashtra,2023-02-05,Toys & Baby Products,3.6,Low
+SELR000653,Living Impex,Coimbatore,Tamil Nadu,2025-03-04,Home & Kitchen,4.3,Medium
+SELR000654,Chatterjee Overseas,Thiruvananthapuram,Kerala,2025-03-01,Books,4.3,Medium
+SELR000655,Harvest Ventures,Ghaziabad,Uttar Pradesh,2024-11-08,Grocery,3.0,Low
+SELR000656,Bhat Kiddo Bazaar,Surat,Gujarat,2024-04-30,Toys & Baby Products,4.3,Medium
+SELR000657,Fabric Wholesale,Faridabad,Haryana,2023-05-04,Fashion,3.7,Low
+SELR000658,Ahluwalia Trend Trading Co,Bengaluru,Karnataka,2023-10-12,Fashion,4.2,Medium
+SELR000659,Rathore Retail,Hyderabad,Telangana,2022-09-26,Fashion,3.9,Medium
+SELR000660,Bhatia Retail,Chennai,Tamil Nadu,2023-04-20,Fashion,4.5,Medium
+SELR000661,Sen Charm Textiles,Vadodara,Gujarat,2023-12-05,Beauty & Personal Care,3.9,Medium
+SELR000662,Kohli Toon Stores,Jaipur,Rajasthan,2023-11-20,Toys & Baby Products,3.6,Low
+SELR000663,Jain Distributors,Chennai,Tamil Nadu,2022-10-09,Toys & Baby Products,4.2,Medium
+SELR000664,Deshmukh Bella Textiles,Udaipur,Rajasthan,2025-07-05,Beauty & Personal Care,4.8,High
+SELR000665,Pure House,Kolkata,West Bengal,2023-05-11,Beauty & Personal Care,4.0,Medium
+SELR000666,Chandel Solutions,Jaipur,Rajasthan,2024-02-10,Grocery,4.4,Low
+SELR000667,Pandey Traders,Gurugram,Haryana,2023-12-22,Toys & Baby Products,4.0,Low
+SELR000668,Das Textiles,Bengaluru,Karnataka,2023-12-27,Fashion,3.0,Low
+SELR000669,Bhattacharya Charm Solutions,Amritsar,Punjab,2025-02-27,Beauty & Personal Care,4.4,Medium
+SELR000670,Bose Grain Industries,Jaipur,Rajasthan,2024-11-06,Grocery,3.8,Medium
+SELR000671,Patel House,Delhi,Delhi,2025-03-25,Fashion,4.6,High
+SELR000672,Comfort Creations,Rohtak,Haryana,2023-09-15,Home & Kitchen,4.1,Medium
+SELR000673,Suri Little Industries,Raipur,Chhattisgarh,2023-05-08,Toys & Baby Products,3.5,Low
+SELR000674,Little Ventures,Varanasi,Uttar Pradesh,2023-11-09,Toys & Baby Products,4.0,Low
+SELR000675,Dutta Little Textiles,Siliguri,West Bengal,2024-04-10,Toys & Baby Products,3.5,Medium
+SELR000676,Dey Emporium,Guntur,Andhra Pradesh,2023-07-29,Books,4.2,Medium
+SELR000677,Bhagat Solutions,Ahmedabad,Gujarat,2023-12-16,Fashion,3.5,Low
+SELR000678,Mishra Marketing,Ghaziabad,Uttar Pradesh,2022-12-29,Fashion,4.0,Medium
+SELR000679,Tiwari Industries,Ghaziabad,Uttar Pradesh,2024-05-05,Beauty & Personal Care,4.3,High
+SELR000680,Charm Textiles,Chennai,Tamil Nadu,2024-09-30,Beauty & Personal Care,4.0,Medium
+SELR000681,Home Electricals,Hyderabad,Telangana,2024-03-01,Home & Kitchen,4.8,High
+SELR000682,Charm Stores,Mumbai,Maharashtra,2025-03-31,Beauty & Personal Care,3.7,Medium
+SELR000683,Kitchen Hub,Kochi,Kerala,2025-08-18,Home & Kitchen,4.1,High
+SELR000684,Ink Mart,Thiruvananthapuram,Kerala,2025-05-07,Books,4.2,Medium
+SELR000685,Chandel Creations,Bhubaneswar,Odisha,2022-10-23,Fashion,4.2,Medium
+SELR000686,Rao Point,Ahmedabad,Gujarat,2025-04-09,Fashion,3.1,Medium
+SELR000687,Digital Electricals,Hyderabad,Telangana,2023-07-25,Electronics,4.7,Medium
+SELR000688,Sethi Weave Collection,Jaipur,Rajasthan,2023-12-07,Fashion,3.3,Low
+SELR000689,Daily Overseas,Indore,Madhya Pradesh,2023-10-22,Grocery,3.2,Low
+SELR000690,Dhar Living Emporium,Dhanbad,Jharkhand,2023-05-29,Home & Kitchen,3.9,Medium
+SELR000691,Vogue Junction,Shimla,Himachal Pradesh,2025-04-05,Fashion,3.4,Medium
+SELR000692,Sen Junction,Kozhikode,Kerala,2024-07-06,Books,3.8,Low
+SELR000693,Bella Distributors,Aligarh,Uttar Pradesh,2025-07-16,Beauty & Personal Care,3.8,Medium
+SELR000694,Bose Industries,Panipat,Haryana,2025-07-02,Electronics,4.2,Medium
+SELR000695,Vogue Traders,Lucknow,Uttar Pradesh,2023-10-31,Fashion,3.5,Low
+SELR000696,Dhillon Hub,Delhi,Delhi,2024-10-15,Fashion,4.1,Medium
+SELR000697,Athletic Overseas,Mumbai,Maharashtra,2024-02-02,Sports & Fitness,3.6,Low
+SELR000698,Yadav Emporium,Gurugram,Haryana,2024-01-25,Fashion,4.3,Medium
+SELR000699,Kulkarni Digital Marketing,Chennai,Tamil Nadu,2024-10-30,Electronics,3.6,Medium
+SELR000700,Rana Circuit Stores,Bengaluru,Karnataka,2024-09-02,Electronics,4.8,Medium
+SELR000701,Rathore Industries,Gorakhpur,Uttar Pradesh,2025-05-14,Beauty & Personal Care,4.8,Medium
+SELR000702,Byte Creations,Hyderabad,Telangana,2024-12-06,Electronics,4.6,Medium
+SELR000703,Srivastava Farm Textiles,Patiala,Punjab,2024-06-18,Grocery,4.4,Medium
+SELR000704,Parmar Electricals,Bhubaneswar,Odisha,2025-05-22,Fashion,3.5,Low
+SELR000705,Bhatia Pure Point,Coimbatore,Tamil Nadu,2022-11-03,Beauty & Personal Care,4.4,Medium
+SELR000706,Kitchen Creations,Visakhapatnam,Andhra Pradesh,2024-11-26,Home & Kitchen,4.0,Medium
+SELR000707,Kitchen Impex,Ahmedabad,Gujarat,2023-09-30,Home & Kitchen,4.7,Low
+SELR000708,Desai Digital Trading Co,Coimbatore,Tamil Nadu,2023-11-15,Electronics,3.7,Low
+SELR000709,Deshmukh Grain Junction,Hyderabad,Telangana,2024-12-17,Grocery,4.4,Medium
+SELR000710,Srivastava Marketing,Tiruchirappalli,Tamil Nadu,2023-05-17,Toys & Baby Products,4.0,Medium
+SELR000711,Sandhu House,Pune,Maharashtra,2025-04-12,Electronics,3.5,Low
+SELR000712,Chandel Ventures,Chennai,Tamil Nadu,2024-01-30,Fashion,3.8,Medium
+SELR000713,Little Hub,Agra,Uttar Pradesh,2023-08-11,Toys & Baby Products,3.2,Low
+SELR000714,Agarwal Charm Collection,Kochi,Kerala,2023-07-19,Beauty & Personal Care,4.0,Low
+SELR000715,Gupta Weave Overseas,Jaipur,Rajasthan,2023-11-01,Fashion,4.0,Low
+SELR000716,Style Solutions,Chandigarh,Chandigarh,2025-06-18,Fashion,4.1,Medium
+SELR000717,Fit Junction,Bengaluru,Karnataka,2022-11-04,Sports & Fitness,3.7,Medium
+SELR000718,Power Bazaar,Visakhapatnam,Andhra Pradesh,2024-02-09,Sports & Fitness,4.6,High
+SELR000719,Pillai Junction,Chennai,Tamil Nadu,2025-02-15,Beauty & Personal Care,4.1,Medium
+SELR000720,Mandal Marketing,Pune,Maharashtra,2023-12-30,Toys & Baby Products,4.1,Low
+SELR000721,Kitchen Bazaar,Bengaluru,Karnataka,2024-04-15,Home & Kitchen,4.3,Medium
+SELR000722,Trend Industries,Ahmedabad,Gujarat,2023-08-10,Fashion,3.6,Medium
+SELR000723,Chandra Enterprises,Ahmedabad,Gujarat,2022-12-12,Home & Kitchen,5.0,High
+SELR000724,Sandhu Point,Jaipur,Rajasthan,2024-07-07,Fashion,3.8,Low
+SELR000725,Bhagat Style Creations,Hyderabad,Telangana,2025-05-23,Fashion,4.6,High
+SELR000726,Saxena Digital Wholesale,Hyderabad,Telangana,2024-02-22,Electronics,4.6,High
+SELR000727,Chatterjee Junction,Indore,Madhya Pradesh,2023-11-14,Fashion,4.7,Medium
+SELR000728,Trivedi Industries,Bengaluru,Karnataka,2022-12-04,Sports & Fitness,4.2,High
+SELR000729,Volt Electricals,Nashik,Maharashtra,2025-06-20,Electronics,3.7,Medium
+SELR000730,Patel Comfort Overseas,Solapur,Maharashtra,2025-03-26,Home & Kitchen,3.9,Medium
+SELR000731,Sen Global,Noida,Uttar Pradesh,2025-05-03,Sports & Fitness,4.3,Medium
+SELR000732,Mukherjee Bella Collection,Warangal,Telangana,2023-08-23,Beauty & Personal Care,4.6,High
+SELR000733,Scroll Emporium,Mumbai,Maharashtra,2024-06-21,Books,4.5,High
+SELR000734,Kapoor Grain Trading Co,Delhi,Delhi,2023-11-15,Grocery,4.0,Medium
+SELR000735,Jadhav Traders,Varanasi,Uttar Pradesh,2023-04-03,Sports & Fitness,4.7,High
+SELR000736,Jain Collection,Bhubaneswar,Odisha,2023-03-01,Electronics,3.8,Medium
+SELR000737,Nest Marketing,Gwalior,Madhya Pradesh,2023-09-20,Home & Kitchen,4.1,Medium
+SELR000738,Yadav Creations,Delhi,Delhi,2024-03-31,Beauty & Personal Care,3.7,Medium
+SELR000739,Mukherjee Ventures,Guwahati,Assam,2022-11-26,Fashion,4.2,Medium
+SELR000740,Circuit Wholesale,Kolkata,West Bengal,2024-09-17,Electronics,3.8,Medium
+SELR000741,Rawat Trend Collection,Pune,Maharashtra,2023-12-13,Fashion,4.4,High
+SELR000742,Patel Hub,Bengaluru,Karnataka,2025-04-09,Home & Kitchen,4.4,High
+SELR000743,Sethi Hearth Retail,Panaji,Goa,2023-05-23,Home & Kitchen,4.0,Low
+SELR000744,Sethi Impex,Delhi,Delhi,2022-09-06,Fashion,4.8,High
+SELR000745,Desai Organic Point,Jodhpur,Rajasthan,2023-06-30,Grocery,3.4,Medium
+SELR000746,Halder Playful Mart,Chandigarh,Chandigarh,2025-07-23,Toys & Baby Products,3.8,Medium
+SELR000747,Khanna Fabric Ventures,Amritsar,Punjab,2023-07-12,Fashion,4.0,Medium
+SELR000748,Joy Mart,Agra,Uttar Pradesh,2024-09-19,Toys & Baby Products,4.7,Medium
+SELR000749,Byte Wholesale,Moradabad,Uttar Pradesh,2025-02-25,Electronics,3.0,Low
+SELR000750,Brar Impex,Hyderabad,Telangana,2023-05-30,Toys & Baby Products,3.0,Low
+SELR000751,Little Point,Delhi,Delhi,2024-07-11,Toys & Baby Products,4.5,Medium
+SELR000752,Rana Tech Solutions,Vadodara,Gujarat,2023-02-28,Electronics,3.7,Medium
+SELR000753,Agnihotri Read Bazaar,Kolkata,West Bengal,2023-08-26,Books,3.9,Medium
+SELR000754,Joshi Kiddo Point,Mumbai,Maharashtra,2023-06-12,Toys & Baby Products,4.1,Medium
+SELR000755,Sandhu Electricals,Hyderabad,Telangana,2024-08-14,Toys & Baby Products,4.1,Medium
+SELR000756,Rana Collection,Ahmedabad,Gujarat,2025-04-03,Toys & Baby Products,4.5,Medium
+SELR000757,Bhan Pure Hub,Mumbai,Maharashtra,2023-04-23,Beauty & Personal Care,4.2,Medium
+SELR000758,Tech Mart,Delhi,Delhi,2023-06-07,Electronics,3.8,Low
+SELR000759,Grain Point,Kozhikode,Kerala,2025-01-30,Grocery,4.4,High
+SELR000760,Jadhav Glow Collection,Ahmedabad,Gujarat,2023-12-19,Beauty & Personal Care,3.7,Medium
+SELR000761,Shah Radiance Industries,Thrissur,Kerala,2024-02-14,Beauty & Personal Care,3.7,Low
+SELR000762,Nest Traders,Panipat,Haryana,2024-09-21,Home & Kitchen,3.6,Medium
+SELR000763,Kumar Radiance Stores,Bengaluru,Karnataka,2022-12-13,Beauty & Personal Care,4.3,High
+SELR000764,Chauhan Enterprises,Agra,Uttar Pradesh,2025-03-30,Fashion,4.8,High
+SELR000765,Dar Scroll Overseas,Vadodara,Gujarat,2023-08-30,Books,4.3,Low
+SELR000766,Digital Marketing,Nashik,Maharashtra,2024-07-29,Electronics,4.5,High
+SELR000767,Kulkarni Hub,Mumbai,Maharashtra,2023-11-14,Sports & Fitness,3.6,Medium
+SELR000768,Jadhav Impex,Hyderabad,Telangana,2024-11-14,Grocery,4.7,High
+SELR000769,Singh Bazaar,Mumbai,Maharashtra,2024-06-06,Home & Kitchen,4.7,High
+SELR000770,Gill Kitchen Hub,Ghaziabad,Uttar Pradesh,2023-01-23,Home & Kitchen,4.4,Medium
+SELR000771,Bhatt Weave Mart,Puducherry,Puducherry,2023-02-09,Fashion,3.9,Medium
+SELR000772,Raina Global,Visakhapatnam,Andhra Pradesh,2025-04-05,Toys & Baby Products,4.2,Medium
+SELR000773,Bookish Hub,Agra,Uttar Pradesh,2024-02-22,Books,4.1,Medium
+SELR000774,Hearth Junction,Thrissur,Kerala,2023-05-20,Home & Kitchen,3.9,Low
+SELR000775,Trivedi Junction,Visakhapatnam,Andhra Pradesh,2022-12-20,Fashion,4.8,High
+SELR000776,Weave Enterprises,Delhi,Delhi,2022-12-03,Fashion,4.0,Low
+SELR000777,Chauhan Nest Textiles,Jalandhar,Punjab,2025-05-23,Home & Kitchen,4.4,Medium
+SELR000778,Kiddo Hub,Kolkata,West Bengal,2025-07-26,Toys & Baby Products,4.0,Medium
+SELR000779,Rawat Industries,Delhi,Delhi,2023-10-01,Books,2.8,Low
+SELR000780,Fabric Trading Co,Surat,Gujarat,2023-02-24,Fashion,3.8,Low
+SELR000781,Bhan Organic Overseas,Tiruchirappalli,Tamil Nadu,2023-10-30,Grocery,3.7,Medium
+SELR000782,Sethi Solutions,Chennai,Tamil Nadu,2022-12-12,Home & Kitchen,4.3,Low
+SELR000783,Chakraborty Emporium,Surat,Gujarat,2024-03-27,Grocery,4.2,Medium
+SELR000784,Dey Emporium,Bengaluru,Karnataka,2024-06-22,Fashion,3.9,Medium
+SELR000785,Glow Wholesale,Delhi,Delhi,2025-08-06,Beauty & Personal Care,3.8,Low
+SELR000786,Chandel Point,Mumbai,Maharashtra,2023-07-08,Toys & Baby Products,3.9,Medium
+SELR000787,Kumar Vogue Marketing,Amritsar,Punjab,2023-02-20,Fashion,2.8,Low
+SELR000788,Kumar Sport Wholesale,Jalandhar,Punjab,2022-12-09,Sports & Fitness,4.1,Medium
+SELR000789,Toon Creations,Bengaluru,Karnataka,2023-09-12,Toys & Baby Products,3.2,Low
+SELR000790,Weave Impex,Pune,Maharashtra,2024-05-25,Fashion,3.9,Medium
+SELR000791,Chopra Industries,Hyderabad,Telangana,2022-09-23,Electronics,4.1,Medium
+SELR000792,Sisodia Traders,Delhi,Delhi,2024-11-21,Sports & Fitness,4.4,Medium
+SELR000793,Brar Enterprises,Indore,Madhya Pradesh,2023-12-16,Fashion,4.0,Medium
+SELR000794,Tech Global,Ludhiana,Punjab,2024-12-30,Electronics,4.5,High
+SELR000795,Thakur Emporium,Coimbatore,Tamil Nadu,2023-12-20,Home & Kitchen,4.2,High
+SELR000796,Chowdhury Chapter Bazaar,Gurugram,Haryana,2023-01-03,Books,4.0,Medium
+SELR000797,Sisodia Style Distributors,Indore,Madhya Pradesh,2022-08-03,Fashion,4.3,High
+SELR000798,Vogue Retail,Mumbai,Maharashtra,2024-04-04,Fashion,4.4,Medium
+SELR000799,Jain Daily Traders,Bengaluru,Karnataka,2024-03-15,Grocery,3.9,Low
+SELR000800,Kamath Pure Bazaar,Rourkela,Odisha,2025-01-22,Beauty & Personal Care,4.3,Low
+SELR000801,Ghosh Fresh Electricals,Bhubaneswar,Odisha,2025-04-05,Grocery,3.6,Low
+SELR000802,Agnihotri Kitchen Emporium,Jamshedpur,Jharkhand,2023-01-09,Home & Kitchen,3.9,Medium
+SELR000803,Verma Textiles,Dhanbad,Jharkhand,2023-07-03,Toys & Baby Products,3.8,Low
+SELR000804,Raina Fit Hub,Coimbatore,Tamil Nadu,2023-03-03,Sports & Fitness,4.3,Medium
+SELR000805,Tech Global,Cuttack,Odisha,2022-11-08,Electronics,4.9,High
+SELR000806,Tiwari Playful Solutions,Noida,Uttar Pradesh,2022-07-12,Toys & Baby Products,4.5,High
+SELR000807,Hearth Junction,Delhi,Delhi,2022-10-11,Home & Kitchen,4.3,Medium
+SELR000808,Fabric Stores,Delhi,Delhi,2024-02-28,Fashion,4.0,Medium
+SELR000809,Fabric Creations,Mumbai,Maharashtra,2022-12-30,Fashion,3.7,Medium
+SELR000810,Chatterjee Trading Co,Mumbai,Maharashtra,2023-02-16,Sports & Fitness,3.3,Low
+SELR000811,Bhatt Hub,Kolkata,West Bengal,2022-11-21,Electronics,4.6,High
+SELR000812,Iyer Style Collection,Ludhiana,Punjab,2024-10-12,Fashion,3.9,High
+SELR000813,Rastogi Junction,Mysuru,Karnataka,2024-07-03,Electronics,3.9,Low
+SELR000814,Sharma Home Trading Co,Vadodara,Gujarat,2025-07-10,Home & Kitchen,4.3,Medium
+SELR000815,Mishra Retail,Bengaluru,Karnataka,2022-11-14,Home & Kitchen,4.2,High
+SELR000816,Dhar Pure Mart,Vijayawada,Andhra Pradesh,2023-03-04,Beauty & Personal Care,4.0,Low
+SELR000817,Fabric Hub,Kolkata,West Bengal,2023-12-11,Fashion,2.8,Low
+SELR000818,Chandel Byte Stores,Delhi,Delhi,2024-07-18,Electronics,4.7,Medium
+SELR000819,Iyer Bella House,Pune,Maharashtra,2022-12-05,Beauty & Personal Care,4.4,Medium
+SELR000820,Bhatt Nest Creations,Ahmedabad,Gujarat,2023-03-08,Home & Kitchen,3.8,Medium
+SELR000821,Fit Impex,Pune,Maharashtra,2023-11-02,Sports & Fitness,4.3,High
+SELR000822,Digital Wholesale,Ranchi,Jharkhand,2022-07-30,Electronics,4.2,Medium
+SELR000823,Parmar Circuit Solutions,Bhubaneswar,Odisha,2023-10-03,Electronics,3.9,Medium
+SELR000824,Weave Collection,Ludhiana,Punjab,2024-11-20,Fashion,4.1,Medium
+SELR000825,Grover Electricals,Bengaluru,Karnataka,2024-03-01,Home & Kitchen,3.3,Low
+SELR000826,Nest Textiles,Ranchi,Jharkhand,2023-11-16,Home & Kitchen,4.3,High
+SELR000827,Suri Mart,Visakhapatnam,Andhra Pradesh,2024-01-17,Grocery,3.6,Medium
+SELR000828,Kohli Stores,Hyderabad,Telangana,2025-06-23,Home & Kitchen,4.1,Medium
+SELR000829,Saxena Radiance Hub,Coimbatore,Tamil Nadu,2024-02-23,Beauty & Personal Care,3.5,Low
+SELR000830,Pillai Charm Overseas,Lucknow,Uttar Pradesh,2024-03-10,Beauty & Personal Care,4.1,Medium
+SELR000831,Rawat Volt Hub,Jaipur,Rajasthan,2025-06-05,Electronics,3.5,Medium
+SELR000832,Bajwa Solutions,Mumbai,Maharashtra,2023-01-05,Home & Kitchen,3.9,Medium
+SELR000833,Kumar Fabric Traders,Kanpur,Uttar Pradesh,2022-10-27,Fashion,4.3,Medium
+SELR000834,Brar Kitchen Wholesale,Mumbai,Maharashtra,2023-12-04,Home & Kitchen,4.2,Medium
+SELR000835,Gadget Enterprises,Bengaluru,Karnataka,2023-07-08,Electronics,3.1,Low
+SELR000836,Kohli Textiles,Bengaluru,Karnataka,2023-02-26,Books,3.6,Medium
+SELR000837,Dhillon Solutions,Bikaner,Rajasthan,2022-11-23,Toys & Baby Products,3.8,Low
+SELR000838,Halder Impex,Pune,Maharashtra,2025-04-05,Electronics,4.0,Low
+SELR000839,Ganguly Radiance Marketing,Kolkata,West Bengal,2024-06-09,Beauty & Personal Care,4.1,Medium
+SELR000840,Chakraborty Bookish Stores,Ahmedabad,Gujarat,2024-09-04,Books,3.8,Medium
+SELR000841,Shah Vogue Hub,Kota,Rajasthan,2022-11-21,Fashion,4.1,High
+SELR000842,Malhotra Scroll Distributors,Bhopal,Madhya Pradesh,2023-08-03,Books,4.9,Low
+SELR000843,Iyengar Bella Junction,Dhanbad,Jharkhand,2024-06-16,Beauty & Personal Care,4.1,Medium
+SELR000844,Tiny Creations,Pune,Maharashtra,2024-03-02,Toys & Baby Products,3.4,Medium
+SELR000845,Negi Toon Overseas,Mumbai,Maharashtra,2024-09-09,Toys & Baby Products,5.0,High
+SELR000846,Rastogi Digital Creations,Indore,Madhya Pradesh,2024-08-11,Electronics,3.9,Low
+SELR000847,Rathore House,Kolkata,West Bengal,2023-10-24,Home & Kitchen,3.5,Medium
+SELR000848,Rawat Pure Impex,Madurai,Tamil Nadu,2024-12-18,Beauty & Personal Care,4.0,Medium
+SELR000849,Vogue Textiles,Udaipur,Rajasthan,2023-05-01,Fashion,4.3,High
+SELR000850,Trend Point,Lucknow,Uttar Pradesh,2022-10-09,Fashion,3.5,Low
+SELR000851,Rana Little Trading Co,Belagavi,Karnataka,2025-05-16,Toys & Baby Products,4.1,Medium
+SELR000852,Bansal Byte Industries,Indore,Madhya Pradesh,2022-08-04,Electronics,4.4,Medium
+SELR000853,Home Hub,Chennai,Tamil Nadu,2023-05-29,Home & Kitchen,3.1,Low
+SELR000854,Organic Stores,Surat,Gujarat,2022-11-17,Grocery,2.6,Low
+SELR000855,Joshi Trend Marketing,Delhi,Delhi,2023-03-31,Fashion,4.0,Medium
+SELR000856,Pandey Impex,Madurai,Tamil Nadu,2023-10-03,Home & Kitchen,3.9,Medium
+SELR000857,Solanki Playful Emporium,Mumbai,Maharashtra,2022-12-04,Toys & Baby Products,3.3,Low
+SELR000858,Arora Nest Enterprises,Pune,Maharashtra,2023-12-24,Home & Kitchen,4.1,Low
+SELR000859,Dhar Trading Co,Bhopal,Madhya Pradesh,2025-06-01,Electronics,4.1,Medium
+SELR000860,Circuit Junction,Delhi,Delhi,2022-12-12,Electronics,4.7,Medium
+SELR000861,Solanki Junction,Mumbai,Maharashtra,2025-05-31,Toys & Baby Products,3.5,Low
+SELR000862,Kumar Vogue Hub,Ludhiana,Punjab,2023-10-21,Fashion,4.7,Low
+SELR000863,Mukherjee Industries,Mumbai,Maharashtra,2024-05-15,Home & Kitchen,3.2,Low
+SELR000864,Raina Volt Traders,Lucknow,Uttar Pradesh,2023-11-25,Electronics,3.9,Medium
+SELR000865,Jain Nest Enterprises,Ahmedabad,Gujarat,2023-07-05,Home & Kitchen,4.4,High
+SELR000866,Dey Traders,Chennai,Tamil Nadu,2022-11-11,Toys & Baby Products,4.0,Low
+SELR000867,Kitchen Ventures,Hyderabad,Telangana,2024-05-16,Home & Kitchen,3.5,Low
+SELR000868,Biswas Emporium,Bhubaneswar,Odisha,2025-05-19,Toys & Baby Products,4.4,Low
+SELR000869,Threads Global,Gorakhpur,Uttar Pradesh,2024-02-23,Fashion,4.5,High
+SELR000870,Living Bazaar,Bengaluru,Karnataka,2024-05-23,Home & Kitchen,4.1,Medium
+SELR000871,Kumar Daily Electricals,Patiala,Punjab,2024-07-12,Grocery,3.8,Low
+SELR000872,Rawat Electricals,Vadodara,Gujarat,2023-09-25,Home & Kitchen,4.5,High
+SELR000873,Reddy Trend House,Coimbatore,Tamil Nadu,2022-11-24,Fashion,3.8,Low
+SELR000874,Dey Harvest Global,Agra,Uttar Pradesh,2024-02-07,Grocery,4.0,Medium
+SELR000875,Comfort Junction,Ludhiana,Punjab,2025-03-26,Home & Kitchen,3.7,Low
+SELR000876,Halder Collection,Raipur,Chhattisgarh,2023-07-03,Beauty & Personal Care,3.4,Low
+SELR000877,Parmar Creations,Lucknow,Uttar Pradesh,2025-03-29,Toys & Baby Products,4.0,Medium
+SELR000878,Raina Vogue Emporium,Nagpur,Maharashtra,2025-03-09,Fashion,3.9,Medium
+SELR000879,Sethi Hub,Ahmedabad,Gujarat,2023-04-15,Fashion,3.6,Medium
+SELR000880,Ahluwalia Emporium,Mumbai,Maharashtra,2024-04-25,Electronics,3.9,Medium
+SELR000881,Rao Mart,Kochi,Kerala,2024-11-08,Home & Kitchen,3.9,Medium
+SELR000882,Kaul Style Junction,Delhi,Delhi,2024-01-25,Fashion,3.8,Medium
+SELR000883,Wani Collection,Pune,Maharashtra,2024-09-14,Sports & Fitness,3.8,Low
+SELR000884,Fabric House,Mumbai,Maharashtra,2025-05-13,Fashion,3.3,Medium
+SELR000885,Athletic Mart,Hyderabad,Telangana,2024-06-24,Sports & Fitness,3.3,Medium
+SELR000886,Chandra Overseas,Chandigarh,Chandigarh,2025-02-19,Fashion,4.0,Medium
+SELR000887,Bisht Style Stores,Chandigarh,Chandigarh,2025-01-08,Fashion,4.0,Medium
+SELR000888,Weave Industries,Noida,Uttar Pradesh,2025-01-21,Fashion,4.4,High
+SELR000889,Sport Global,Mumbai,Maharashtra,2025-03-07,Sports & Fitness,3.8,Medium
+SELR000890,Kitchen Stores,Noida,Uttar Pradesh,2023-03-24,Home & Kitchen,3.7,Medium
+SELR000891,Kitchen Point,Kolkata,West Bengal,2022-07-30,Home & Kitchen,4.0,Medium
+SELR000892,Bose Harvest Marketing,Varanasi,Uttar Pradesh,2022-12-31,Grocery,3.9,Low
+SELR000893,Bella Trading Co,Patna,Bihar,2023-04-20,Beauty & Personal Care,4.5,Medium
+SELR000894,Pillai Distributors,Surat,Gujarat,2024-09-03,Fashion,4.8,High
+SELR000895,Bhan Emporium,Surat,Gujarat,2024-02-11,Toys & Baby Products,3.4,Low
+SELR000896,Weave Collection,Panipat,Haryana,2023-12-26,Fashion,4.1,Low
+SELR000897,Bhat Gadget Mart,Bhubaneswar,Odisha,2022-07-20,Electronics,3.9,Medium
+SELR000898,Nest Creations,Surat,Gujarat,2024-08-27,Home & Kitchen,4.2,Medium
+SELR000899,Digital Emporium,Lucknow,Uttar Pradesh,2023-08-29,Electronics,4.2,Medium
+SELR000900,Kumar Retail,Delhi,Delhi,2024-11-23,Fashion,4.3,Medium
+SELR000901,Naidu Traders,Solapur,Maharashtra,2022-11-15,Books,4.1,Medium
+SELR000902,Mukherjee Global,Ahmedabad,Gujarat,2023-06-11,Electronics,4.1,Medium
+SELR000903,Grain House,Chennai,Tamil Nadu,2022-09-10,Grocery,4.5,High
+SELR000904,Sen Enterprises,Margao,Goa,2023-05-30,Toys & Baby Products,3.8,Medium
+SELR000905,Ahluwalia Bella Overseas,Varanasi,Uttar Pradesh,2025-05-27,Beauty & Personal Care,4.9,Low
+SELR000906,Biswas Sport Retail,Delhi,Delhi,2024-01-20,Sports & Fitness,4.7,Medium
+SELR000907,Bose Sport Stores,Delhi,Delhi,2023-11-23,Sports & Fitness,4.4,Medium
+SELR000908,Bhat Tiny Emporium,Delhi,Delhi,2023-05-17,Toys & Baby Products,4.5,High
+SELR000909,Wani Enterprises,Vadodara,Gujarat,2023-05-07,Fashion,4.3,Medium
+SELR000910,Kapoor Trading Co,Mumbai,Maharashtra,2024-08-08,Fashion,3.7,Medium
+SELR000911,Deshmukh Nest Impex,Salem,Tamil Nadu,2025-08-06,Home & Kitchen,2.9,Low
+SELR000912,Sharma Pure Mart,Tiruchirappalli,Tamil Nadu,2024-11-07,Beauty & Personal Care,3.6,Low
+SELR000913,Vaghela Vogue Enterprises,Indore,Madhya Pradesh,2024-10-27,Fashion,2.6,Low
+SELR000914,Ahluwalia Bloom Emporium,Faridabad,Haryana,2023-12-30,Beauty & Personal Care,4.0,Low
+SELR000915,Negi Enterprises,Pune,Maharashtra,2022-10-30,Electronics,2.7,Low
+SELR000916,Playful Mart,Delhi,Delhi,2024-10-12,Toys & Baby Products,3.1,Low
+SELR000917,Saxena Weave Emporium,Rajkot,Gujarat,2025-01-16,Fashion,4.6,High
+SELR000918,Menon Traders,Mumbai,Maharashtra,2024-02-11,Electronics,4.7,High
+SELR000919,Naidu Ventures,Mumbai,Maharashtra,2022-10-22,Electronics,4.1,Medium
+SELR000920,Vogue Junction,Ahmedabad,Gujarat,2024-09-29,Fashion,4.1,Medium
+SELR000921,Style House,Delhi,Delhi,2025-05-25,Fashion,4.0,High
+SELR000922,Byte Mart,Noida,Uttar Pradesh,2023-03-23,Electronics,3.8,Low
+SELR000923,Vogue Ventures,Agra,Uttar Pradesh,2023-01-07,Fashion,4.5,Medium
+SELR000924,Threads Collection,Madurai,Tamil Nadu,2024-10-29,Fashion,3.6,Medium
+SELR000925,Rastogi Comfort Textiles,Ghaziabad,Uttar Pradesh,2023-07-23,Home & Kitchen,3.9,Medium
+SELR000926,Home Mart,Gwalior,Madhya Pradesh,2024-10-02,Home & Kitchen,4.3,Medium
+SELR000927,Ghosh Wholesale,Gurugram,Haryana,2024-09-18,Fashion,4.0,Medium
+SELR000928,Hegde Vogue Creations,Aligarh,Uttar Pradesh,2023-05-09,Fashion,3.8,Low
+SELR000929,Digital Mart,Surat,Gujarat,2022-08-27,Electronics,4.4,Medium
+SELR000930,Reddy Enterprises,Hyderabad,Telangana,2024-04-03,Electronics,2.0,Low
+SELR000931,Iyengar Creations,Solapur,Maharashtra,2023-10-17,Fashion,3.8,Medium
+SELR000932,Page Global,Pune,Maharashtra,2025-03-11,Books,4.1,Medium
+SELR000933,Kiddo Emporium,Delhi,Delhi,2023-08-22,Toys & Baby Products,3.6,Medium
+SELR000934,Tiny Ventures,Chennai,Tamil Nadu,2023-04-20,Toys & Baby Products,2.9,Low
+SELR000935,Menon Comfort Textiles,Kolkata,West Bengal,2025-03-16,Home & Kitchen,3.4,Low
+SELR000936,Reddy Textiles,Kolkata,West Bengal,2024-10-26,Beauty & Personal Care,4.0,Medium
+SELR000937,Naidu Junction,Nagpur,Maharashtra,2024-06-13,Fashion,3.7,Low
+SELR000938,Chatterjee Read Trading Co,Udaipur,Rajasthan,2025-07-01,Books,4.7,High
+SELR000939,Agnihotri Bookish Retail,Pune,Maharashtra,2024-12-18,Books,4.1,Low
+SELR000940,Chandra Textiles,Kanpur,Uttar Pradesh,2025-03-23,Grocery,4.7,High
+SELR000941,Sharma Kiddo Retail,Ahmedabad,Gujarat,2025-01-05,Toys & Baby Products,3.3,Medium
+SELR000942,Khanna Marketing,Jodhpur,Rajasthan,2023-10-10,Home & Kitchen,3.8,Low
+SELR000943,Scroll Traders,Bengaluru,Karnataka,2022-09-19,Books,3.3,Medium
+SELR000944,Mukherjee Organic Point,Mumbai,Maharashtra,2024-06-01,Grocery,4.1,Medium
+SELR000945,Dey Creations,Surat,Gujarat,2024-11-27,Fashion,3.4,Medium
+SELR000946,Rathore Wholesale,Visakhapatnam,Andhra Pradesh,2025-08-13,Toys & Baby Products,4.0,Medium
+SELR000947,Agarwal Digital Point,Mysuru,Karnataka,2024-08-25,Electronics,2.7,Low
+SELR000948,Pandey Hub,Vadodara,Gujarat,2024-04-18,Toys & Baby Products,2.6,Low
+SELR000949,Shah Scroll Emporium,Guwahati,Assam,2024-04-26,Books,3.4,Low
+SELR000950,Tech Industries,Gurugram,Haryana,2022-11-18,Electronics,4.1,Medium
+SELR000951,Jadhav Sport Creations,Delhi,Delhi,2022-07-18,Sports & Fitness,3.7,Medium
+SELR000952,Chandel Ventures,Mumbai,Maharashtra,2022-08-30,Electronics,3.6,Medium
+SELR000953,Khanna Industries,Delhi,Delhi,2025-05-06,Books,4.0,Medium
+SELR000954,Bookish Ventures,Ahmedabad,Gujarat,2024-12-26,Books,4.4,Medium
+SELR000955,Bisht Pure Enterprises,Surat,Gujarat,2023-05-02,Beauty & Personal Care,3.6,Low
+SELR000956,Hegde Textiles,Kolkata,West Bengal,2023-11-04,Grocery,3.6,Low
+SELR000957,Circuit Global,Bhopal,Madhya Pradesh,2024-01-12,Electronics,4.0,Low
+SELR000958,Bhagat Bazaar,Lucknow,Uttar Pradesh,2023-04-17,Fashion,3.2,Medium
+SELR000959,Pillai Overseas,Visakhapatnam,Andhra Pradesh,2023-11-03,Home & Kitchen,3.7,Medium
+SELR000960,Thakur Creations,Kochi,Kerala,2023-08-10,Electronics,3.7,Medium
+SELR000961,Tiwari Emporium,Ahmedabad,Gujarat,2024-09-09,Home & Kitchen,4.0,Medium
+SELR000962,Fabric Ventures,Kolkata,West Bengal,2024-11-19,Fashion,3.9,Medium
+SELR000963,Kitchen Solutions,Patna,Bihar,2022-10-30,Home & Kitchen,4.2,High
+SELR000964,Pillai Kitchen Enterprises,Vadodara,Gujarat,2023-12-22,Home & Kitchen,4.5,High
+SELR000965,Organic Wholesale,Ahmedabad,Gujarat,2025-08-13,Grocery,3.8,Low
+SELR000966,Gill Fabric Ventures,Ahmedabad,Gujarat,2025-03-26,Fashion,4.2,Medium
+SELR000967,Jain Little Point,Ludhiana,Punjab,2024-12-30,Toys & Baby Products,3.8,Low
+SELR000968,Halder House,Coimbatore,Tamil Nadu,2024-10-24,Home & Kitchen,3.9,Medium
+SELR000969,Negi Bazaar,Bengaluru,Karnataka,2022-07-14,Fashion,4.1,Medium
+SELR000970,Sharma Global,Jaipur,Rajasthan,2025-07-24,Home & Kitchen,4.3,Medium
+SELR000971,Hearth Textiles,Prayagraj,Uttar Pradesh,2024-10-25,Home & Kitchen,3.8,Medium
+SELR000972,Weave Collection,Delhi,Delhi,2025-04-17,Fashion,4.3,High
+SELR000973,Comfort Stores,Bareilly,Uttar Pradesh,2025-05-11,Home & Kitchen,5.0,High
+SELR000974,Vogue Electricals,Bengaluru,Karnataka,2023-04-26,Fashion,2.8,Low
+SELR000975,Agnihotri Threads Enterprises,Surat,Gujarat,2022-07-25,Fashion,4.6,Medium
+SELR000976,Reddy Bella Impex,Noida,Uttar Pradesh,2024-07-30,Beauty & Personal Care,3.5,Medium
+SELR000977,Nest Creations,Delhi,Delhi,2023-12-15,Home & Kitchen,3.9,Medium
+SELR000978,Grain Emporium,Kozhikode,Kerala,2022-08-02,Grocery,3.7,Medium
+SELR000979,Bansal Trend Industries,Jaipur,Rajasthan,2023-05-14,Fashion,4.8,Medium
+SELR000980,Mukherjee Emporium,Bikaner,Rajasthan,2025-08-12,Toys & Baby Products,3.8,Medium
+SELR000981,Scroll Traders,Pune,Maharashtra,2023-08-28,Books,2.7,Low
+SELR000982,Ghosh Traders,Jalandhar,Punjab,2023-05-03,Toys & Baby Products,3.6,Low
+SELR000983,Tiwari Organic Global,Jamshedpur,Jharkhand,2024-07-25,Grocery,3.8,Low
+SELR000984,Das Solutions,Indore,Madhya Pradesh,2024-08-05,Fashion,3.9,Medium
+SELR000985,Kohli Bella Stores,Hyderabad,Telangana,2023-07-23,Beauty & Personal Care,4.0,Medium
+SELR000986,Style Point,Nashik,Maharashtra,2025-03-04,Fashion,3.5,Low
+SELR000987,Brar Grain Hub,Indore,Madhya Pradesh,2024-05-01,Grocery,4.0,Medium
+SELR000988,Chatterjee Bella Mart,Solapur,Maharashtra,2023-01-08,Beauty & Personal Care,4.2,High
+SELR000989,Vogue Stores,Jaipur,Rajasthan,2023-07-15,Fashion,4.4,Medium
+SELR000990,Joy Global,Chennai,Tamil Nadu,2025-03-02,Toys & Baby Products,2.8,Low
+SELR000991,Chopra Industries,Bengaluru,Karnataka,2022-10-19,Electronics,3.9,Medium
+SELR000992,Ganguly Marketing,Ludhiana,Punjab,2022-07-23,Beauty & Personal Care,3.5,Low
+SELR000993,Wani Athletic Ventures,Hubballi,Karnataka,2024-07-27,Sports & Fitness,3.4,Low
+SELR000994,Volt Trading Co,Delhi,Delhi,2023-11-25,Electronics,4.3,Medium
+SELR000995,Rana Marketing,Rajkot,Gujarat,2023-04-24,Beauty & Personal Care,2.8,Low
+SELR000996,Pal Creations,Cuttack,Odisha,2023-12-30,Grocery,3.6,Medium
+SELR000997,Volt Stores,Mumbai,Maharashtra,2023-02-04,Electronics,3.9,Medium
+SELR000998,Solanki Comfort Traders,Mumbai,Maharashtra,2023-09-09,Home & Kitchen,4.8,High
+SELR000999,Sethi Vogue Mart,Nashik,Maharashtra,2023-04-02,Fashion,3.3,Low
+SELR001000,Power Overseas,Coimbatore,Tamil Nadu,2024-05-08,Sports & Fitness,4.5,Medium
+SELR001001,Reddy Volt Collection,Mumbai,Maharashtra,2024-08-15,Electronics,4.9,High
+SELR001002,Joy Ventures,Meerut,Uttar Pradesh,2025-05-17,Toys & Baby Products,4.4,Medium
+SELR001003,Poojary Collection,Kanpur,Uttar Pradesh,2022-09-25,Toys & Baby Products,4.3,High
+SELR001004,Style Ventures,Guntur,Andhra Pradesh,2023-07-17,Fashion,4.1,Medium
+SELR001005,Roy Emporium,Jammu,Jammu And Kashmir,2023-05-07,Fashion,4.1,Medium
+SELR001006,Ganguly Ventures,Ranchi,Jharkhand,2024-04-30,Beauty & Personal Care,4.2,Medium
+SELR001007,Parmar Sport Marketing,Kanpur,Uttar Pradesh,2024-03-08,Sports & Fitness,3.5,Low
+SELR001008,Yadav Solutions,Chennai,Tamil Nadu,2025-04-05,Home & Kitchen,3.7,Medium
+SELR001009,Fabric Retail,Surat,Gujarat,2025-05-22,Fashion,3.4,Low
+SELR001010,Reddy Volt Impex,Mumbai,Maharashtra,2024-12-07,Electronics,4.6,Medium
+SELR001011,Mehta Traders,Kochi,Kerala,2023-02-21,Toys & Baby Products,3.8,Medium
+SELR001012,Rana Distributors,Bengaluru,Karnataka,2022-08-25,Home & Kitchen,3.4,Medium
+SELR001013,Negi Farm Solutions,Kanpur,Uttar Pradesh,2025-04-30,Grocery,4.2,Medium
+SELR001014,Mandal Creations,Delhi,Delhi,2025-06-18,Home & Kitchen,3.9,Low
+SELR001015,Kiddo Textiles,Pune,Maharashtra,2023-04-21,Toys & Baby Products,4.0,Medium
+SELR001016,Circuit Global,Chennai,Tamil Nadu,2022-09-01,Electronics,4.2,Medium
+SELR001017,Rao Circuit Enterprises,Faridabad,Haryana,2024-08-23,Electronics,3.8,Medium
+SELR001018,Rathore Kiddo Collection,Thiruvananthapuram,Kerala,2024-05-11,Toys & Baby Products,3.5,Low
+SELR001019,Ganguly Retail,Delhi,Delhi,2025-04-18,Toys & Baby Products,3.9,High
+SELR001020,Bhatt Distributors,Aligarh,Uttar Pradesh,2024-04-25,Fashion,4.5,Medium
+SELR001021,Fabric Enterprises,Moradabad,Uttar Pradesh,2024-11-22,Fashion,3.2,Low
+SELR001022,Malhotra Trading Co,Ahmedabad,Gujarat,2024-12-22,Home & Kitchen,3.8,Low
+SELR001023,Comfort Point,Kochi,Kerala,2022-07-21,Home & Kitchen,3.7,Low
+SELR001024,Nair Weave Point,Gurugram,Haryana,2022-12-26,Fashion,4.0,Medium
+SELR001025,Bose Playful Emporium,Bengaluru,Karnataka,2024-12-15,Toys & Baby Products,3.6,Medium
+SELR001026,Rastogi Vogue Enterprises,Nagpur,Maharashtra,2023-01-30,Fashion,3.5,Medium
+SELR001027,Khanna Power Distributors,Mumbai,Maharashtra,2023-03-01,Sports & Fitness,3.1,Low
+SELR001028,Naidu Impex,Jammu,Jammu And Kashmir,2024-11-13,Electronics,4.2,Medium
+SELR001029,Pal Gadget Junction,Jamshedpur,Jharkhand,2023-02-28,Electronics,3.6,Low
+SELR001030,Fit Junction,Jodhpur,Rajasthan,2022-12-27,Sports & Fitness,4.1,Medium
+SELR001031,Verma Fabric Industries,Bhopal,Madhya Pradesh,2022-07-25,Fashion,4.1,Medium
+SELR001032,Power Enterprises,Indore,Madhya Pradesh,2023-12-27,Sports & Fitness,3.8,Low
+SELR001033,Digital Impex,Thrissur,Kerala,2024-07-04,Electronics,4.2,Medium
+SELR001034,Sood Toon Stores,Chennai,Tamil Nadu,2024-10-21,Toys & Baby Products,3.6,Low
+SELR001035,Sandhu Electricals,Mumbai,Maharashtra,2025-05-07,Books,3.9,Medium
+SELR001036,Brar Grain Stores,Bhopal,Madhya Pradesh,2024-07-21,Grocery,4.2,Medium
+SELR001037,Kamath Circuit Creations,Ahmedabad,Gujarat,2024-11-18,Electronics,3.9,Medium
+SELR001038,Weave Creations,Ahmedabad,Gujarat,2023-03-07,Fashion,4.0,Medium
+SELR001039,Thakur Impex,Delhi,Delhi,2023-08-02,Home & Kitchen,4.3,Medium
+SELR001040,Pure House,Vadodara,Gujarat,2023-06-21,Beauty & Personal Care,4.6,High
+SELR001041,Malhotra Vogue Industries,Chennai,Tamil Nadu,2022-09-22,Fashion,4.3,High
+SELR001042,Rawat Digital Global,Hyderabad,Telangana,2025-07-18,Electronics,4.4,Medium
+SELR001043,Verma Nest Point,Delhi,Delhi,2023-04-11,Home & Kitchen,4.0,Medium
+SELR001044,Pillai Style Textiles,Kolkata,West Bengal,2023-12-03,Fashion,3.9,Medium
+SELR001045,Sood Living Retail,Jammu,Jammu And Kashmir,2023-08-20,Home & Kitchen,4.2,High
+SELR001046,Weave Retail,Ahmedabad,Gujarat,2022-08-29,Fashion,3.9,Medium
+SELR001047,Weave Industries,Visakhapatnam,Andhra Pradesh,2025-05-04,Fashion,3.5,Medium
+SELR001048,Pure Mart,Bhubaneswar,Odisha,2023-03-17,Beauty & Personal Care,4.3,Low
+SELR001049,Home Stores,Ahmedabad,Gujarat,2022-11-01,Home & Kitchen,4.5,Low
+SELR001050,Patel Vogue Stores,Jodhpur,Rajasthan,2023-08-04,Fashion,4.2,Medium
+SELR001051,Menon Trading Co,Nashik,Maharashtra,2022-12-20,Beauty & Personal Care,4.5,Medium
+SELR001052,Halder Page Marketing,Bhopal,Madhya Pradesh,2025-08-22,Books,3.7,High
+SELR001053,Sethi Retail,Delhi,Delhi,2023-02-10,Home & Kitchen,4.8,Medium
+SELR001054,Sandhu Bloom Ventures,Delhi,Delhi,2023-06-20,Beauty & Personal Care,4.6,High
+SELR001055,Rana Kiddo Creations,Imphal,Manipur,2023-05-15,Toys & Baby Products,3.5,Medium
+SELR001056,Poojary Wholesale,Thiruvananthapuram,Kerala,2022-08-09,Beauty & Personal Care,3.8,Medium
+SELR001057,Joy Impex,Tiruchirappalli,Tamil Nadu,2022-07-24,Toys & Baby Products,3.0,Low
+SELR001058,Pillai Collection,Warangal,Telangana,2024-02-14,Books,4.2,Medium
+SELR001059,Chandra Bazaar,Delhi,Delhi,2023-04-01,Electronics,3.7,Medium
+SELR001060,Home Impex,Mysuru,Karnataka,2022-10-13,Home & Kitchen,3.6,Low
+SELR001061,Reddy Athletic Hub,Jaipur,Rajasthan,2023-06-07,Sports & Fitness,3.2,Low
+SELR001062,Kiddo Textiles,Thiruvananthapuram,Kerala,2023-05-18,Toys & Baby Products,3.8,Medium
+SELR001063,Bajwa Living Junction,Delhi,Delhi,2023-11-05,Home & Kitchen,4.3,Medium
+SELR001064,Agarwal Volt Impex,Pune,Maharashtra,2025-08-14,Electronics,4.2,Medium
+SELR001065,Desai Emporium,Vijayawada,Andhra Pradesh,2023-06-24,Beauty & Personal Care,4.4,Medium
+SELR001066,Digital Stores,Mysuru,Karnataka,2024-09-20,Electronics,3.5,Low
+SELR001067,Read Junction,Faridabad,Haryana,2024-12-02,Books,4.4,Medium
+SELR001068,Wani Home Overseas,Pune,Maharashtra,2022-09-05,Home & Kitchen,3.5,Medium
+SELR001069,Rathore Power Impex,Ahmedabad,Gujarat,2024-02-01,Sports & Fitness,4.7,High
+SELR001070,Organic Distributors,Panipat,Haryana,2023-12-03,Grocery,3.6,Medium
+SELR001071,Pure Mart,Jaipur,Rajasthan,2024-02-08,Beauty & Personal Care,4.0,Low
+SELR001072,Sood Pure Emporium,Jaipur,Rajasthan,2023-01-21,Beauty & Personal Care,4.4,Medium
+SELR001073,Reddy Overseas,Indore,Madhya Pradesh,2023-12-22,Books,3.8,Medium
+SELR001074,Fresh Marketing,Gurugram,Haryana,2022-11-27,Grocery,2.8,Low
+SELR001075,Lone Trading Co,Indore,Madhya Pradesh,2025-06-22,Grocery,3.5,Low
+SELR001076,Tech Global,Noida,Uttar Pradesh,2024-05-09,Electronics,4.2,Medium
+SELR001077,Pure Hub,Jodhpur,Rajasthan,2022-08-18,Beauty & Personal Care,3.8,Medium
+SELR001078,Style Hub,Kollam,Kerala,2024-02-06,Fashion,3.8,Medium
+SELR001079,Farm Global,Salem,Tamil Nadu,2025-05-31,Grocery,3.5,Medium
+SELR001080,Patel Mart,Bhopal,Madhya Pradesh,2024-11-02,Sports & Fitness,3.8,Medium
+SELR001081,Dhar Home Traders,Jaipur,Rajasthan,2023-05-17,Home & Kitchen,4.4,Medium
+SELR001082,Bhan Hub,Agra,Uttar Pradesh,2025-04-22,Fashion,3.7,Low
+SELR001083,Sethi Fabric Electricals,Jabalpur,Madhya Pradesh,2023-02-06,Fashion,3.7,Low
+SELR001084,Rana Active Point,Bhopal,Madhya Pradesh,2023-04-17,Sports & Fitness,3.0,Low
+SELR001085,Dey Point,Ludhiana,Punjab,2023-01-02,Fashion,2.7,Low
+SELR001086,Kohli Byte Enterprises,Vijayawada,Andhra Pradesh,2025-05-27,Electronics,3.6,Low
+SELR001087,Shetty Toon Impex,Visakhapatnam,Andhra Pradesh,2024-10-04,Toys & Baby Products,3.2,Low
+SELR001088,Bookish House,Vijayawada,Andhra Pradesh,2024-02-20,Books,4.4,Low
+SELR001089,Kamath Threads Textiles,Hyderabad,Telangana,2024-08-09,Fashion,3.5,Medium
+SELR001090,Nair Solutions,Surat,Gujarat,2023-05-01,Fashion,4.8,Medium
+SELR001091,Chandra Solutions,Vadodara,Gujarat,2022-09-28,Toys & Baby Products,4.1,Medium
+SELR001092,Active Enterprises,Delhi,Delhi,2025-02-28,Sports & Fitness,3.9,Medium
+SELR001093,Chakraborty Retail,Bareilly,Uttar Pradesh,2025-07-13,Beauty & Personal Care,4.3,Medium
+SELR001094,Ahluwalia Vogue Impex,Ghaziabad,Uttar Pradesh,2022-08-19,Fashion,4.2,Medium
+SELR001095,Bhat Threads Impex,Bengaluru,Karnataka,2022-09-06,Fashion,4.5,Medium
+SELR001096,Dutta Byte Retail,Raipur,Chhattisgarh,2024-04-07,Electronics,3.8,Medium
+SELR001097,Iyengar Distributors,Varanasi,Uttar Pradesh,2022-08-28,Sports & Fitness,4.1,Medium
+SELR001098,Chandel Byte Retail,Bhubaneswar,Odisha,2024-10-09,Electronics,3.6,Low
+SELR001099,Kaul Creations,Gurugram,Haryana,2025-06-21,Electronics,2.7,Low
+SELR001100,Arora Stores,Bareilly,Uttar Pradesh,2023-05-25,Sports & Fitness,4.0,Medium
+SELR001101,Negi Playful Junction,Noida,Uttar Pradesh,2023-06-10,Toys & Baby Products,4.1,High
+SELR001102,Bhatt Read Global,Bhopal,Madhya Pradesh,2025-03-20,Books,3.9,Medium
+SELR001103,Bhattacharya Hub,Delhi,Delhi,2023-08-20,Home & Kitchen,3.6,Low
+SELR001104,Sandhu Living Junction,Coimbatore,Tamil Nadu,2023-04-09,Home & Kitchen,3.6,Low
+SELR001105,Halder Hub,Varanasi,Uttar Pradesh,2022-10-14,Home & Kitchen,5.0,High
+SELR001106,Rao Weave Junction,Bhopal,Madhya Pradesh,2025-02-21,Fashion,3.9,Low
+SELR001107,Ganguly Overseas,Surat,Gujarat,2025-05-30,Beauty & Personal Care,4.2,High
+SELR001108,Pal Creations,Ranchi,Jharkhand,2022-10-07,Home & Kitchen,4.2,Medium
+SELR001109,Bella Collection,Visakhapatnam,Andhra Pradesh,2025-01-10,Beauty & Personal Care,3.8,Low
+SELR001110,Sethi Emporium,Pune,Maharashtra,2023-01-08,Toys & Baby Products,4.0,Medium
+SELR001111,Gill Emporium,Patiala,Punjab,2022-12-15,Toys & Baby Products,3.5,Medium
+SELR001112,Ghosh Retail,Agra,Uttar Pradesh,2023-09-17,Electronics,3.5,Medium
+SELR001113,Das Overseas,Puducherry,Puducherry,2023-11-19,Home & Kitchen,3.7,Medium
+SELR001114,Tiwari Global,Belagavi,Karnataka,2025-03-09,Fashion,3.5,Low
+SELR001115,Pal Overseas,Dhanbad,Jharkhand,2024-09-14,Fashion,2.4,Low
+SELR001116,Desai Wholesale,Bhubaneswar,Odisha,2022-12-21,Fashion,4.4,High
+SELR001117,Parmar Trend Hub,Ghaziabad,Uttar Pradesh,2024-05-05,Fashion,4.7,High
+SELR001118,Menon Bazaar,Bengaluru,Karnataka,2025-04-02,Books,3.3,Low
+SELR001119,Gaikwad Hearth Wholesale,Indore,Madhya Pradesh,2024-08-02,Home & Kitchen,3.4,Medium
+SELR001120,Pillai Playful Trading Co,Dehradun,Uttarakhand,2023-03-28,Toys & Baby Products,4.0,Low
+SELR001121,Circuit Marketing,Kanpur,Uttar Pradesh,2022-12-03,Electronics,4.7,Medium
+SELR001122,Bhatt Textiles,Siliguri,West Bengal,2023-12-07,Electronics,4.7,High
+SELR001123,Nest Retail,Mumbai,Maharashtra,2023-12-30,Home & Kitchen,2.1,Low
+SELR001124,Chauhan Gadget Solutions,Kolkata,West Bengal,2023-08-16,Electronics,3.8,Medium
+SELR001125,Karmakar Style Impex,Surat,Gujarat,2022-11-11,Fashion,4.0,Medium
+SELR001126,Brar Joy Solutions,Noida,Uttar Pradesh,2022-11-21,Toys & Baby Products,4.4,Medium
+SELR001127,Style Impex,Mumbai,Maharashtra,2024-03-04,Fashion,3.9,Medium
+SELR001128,Grover Creations,Bengaluru,Karnataka,2025-06-20,Fashion,3.8,Medium
+SELR001129,Gaikwad Radiance Textiles,Jabalpur,Madhya Pradesh,2024-05-21,Beauty & Personal Care,4.5,Medium
+SELR001130,Pandey Marketing,Lucknow,Uttar Pradesh,2023-11-21,Home & Kitchen,3.4,Low
+SELR001131,Singh Stores,Delhi,Delhi,2025-06-05,Beauty & Personal Care,3.8,Low
+SELR001132,Comfort Electricals,Delhi,Delhi,2024-09-03,Home & Kitchen,3.8,Medium
+SELR001133,Bansal Harvest Stores,Lucknow,Uttar Pradesh,2024-10-05,Grocery,4.4,High
+SELR001134,Ganguly Ventures,Bengaluru,Karnataka,2024-04-25,Electronics,3.4,Low
+SELR001135,Home Bazaar,Agra,Uttar Pradesh,2024-11-25,Home & Kitchen,3.8,Low
+SELR001136,Joshi Industries,Mysuru,Karnataka,2024-02-01,Sports & Fitness,4.0,Medium
+SELR001137,Das Ventures,Chennai,Tamil Nadu,2024-06-18,Grocery,3.8,Medium
+SELR001138,Home Retail,Vadodara,Gujarat,2024-06-11,Home & Kitchen,4.0,Medium
+SELR001139,Ghosh Collection,Bengaluru,Karnataka,2024-11-14,Beauty & Personal Care,3.9,High
+SELR001140,Byte Impex,Pune,Maharashtra,2025-04-29,Electronics,4.3,Medium
+SELR001141,Trend Bazaar,Ajmer,Rajasthan,2023-06-10,Fashion,3.9,Medium
+SELR001142,Wani Electricals,Indore,Madhya Pradesh,2024-09-14,Electronics,2.4,Low
+SELR001143,Kumar House,Ajmer,Rajasthan,2022-08-15,Sports & Fitness,3.4,Low
+SELR001144,Das Ventures,Hyderabad,Telangana,2024-03-08,Fashion,3.1,Low
+SELR001145,Nair Peak Impex,Ahmedabad,Gujarat,2025-04-29,Sports & Fitness,4.2,Medium
+SELR001146,Gadget Solutions,Lucknow,Uttar Pradesh,2024-07-14,Electronics,3.6,Medium
+SELR001147,Grain Industries,Lucknow,Uttar Pradesh,2023-05-11,Grocery,3.5,Low
+SELR001148,Biswas Electricals,Margao,Goa,2024-05-31,Grocery,3.0,Low
+SELR001149,Tech Enterprises,Mumbai,Maharashtra,2023-08-21,Electronics,4.0,Medium
+SELR001150,Reddy Impex,Aligarh,Uttar Pradesh,2023-11-15,Electronics,4.1,Low
+SELR001151,Byte Industries,Jalandhar,Punjab,2023-03-27,Electronics,4.7,High
+SELR001152,Pal Farm Junction,Indore,Madhya Pradesh,2024-06-21,Grocery,3.5,Low
+SELR001153,Bajwa Fabric Traders,Ahmedabad,Gujarat,2023-02-21,Fashion,4.8,High
+SELR001154,Chandel Enterprises,Kanpur,Uttar Pradesh,2023-11-27,Beauty & Personal Care,4.1,Medium
+SELR001155,Banerjee Junction,Pune,Maharashtra,2025-06-14,Home & Kitchen,4.6,Medium
+SELR001156,Iyer Scroll Stores,Madurai,Tamil Nadu,2024-11-19,Books,4.3,High
+SELR001157,Trivedi Industries,Surat,Gujarat,2023-10-25,Home & Kitchen,4.2,High
+SELR001158,Bisht Industries,Cuttack,Odisha,2025-07-18,Home & Kitchen,5.0,High
+SELR001159,Biswas Wholesale,Faridabad,Haryana,2022-07-25,Toys & Baby Products,3.5,Medium
+SELR001160,Desai Vogue Traders,Kanpur,Uttar Pradesh,2025-07-08,Fashion,2.6,Low
+SELR001161,Sharma Electricals,Agra,Uttar Pradesh,2023-08-15,Grocery,4.5,High
+SELR001162,Byte Point,Surat,Gujarat,2025-01-30,Electronics,4.1,Medium
+SELR001163,Comfort Ventures,Guntur,Andhra Pradesh,2025-06-24,Home & Kitchen,3.2,Low
+SELR001164,Ahluwalia Global,Hyderabad,Telangana,2024-05-26,Toys & Baby Products,4.5,Medium
+SELR001165,Kumar Traders,Belagavi,Karnataka,2024-06-04,Sports & Fitness,4.5,High
+SELR001166,Peak Textiles,Ranchi,Jharkhand,2024-11-10,Sports & Fitness,3.5,Low
+SELR001167,Tiwari Trend Stores,Moradabad,Uttar Pradesh,2023-04-09,Fashion,4.1,Low
+SELR001168,Kitchen Bazaar,Lucknow,Uttar Pradesh,2023-01-28,Home & Kitchen,3.9,Medium
+SELR001169,Kitchen Stores,Jabalpur,Madhya Pradesh,2023-08-05,Home & Kitchen,3.6,Low
+SELR001170,Sandhu Impex,Pune,Maharashtra,2024-01-07,Beauty & Personal Care,4.1,High
+SELR001171,Living Creations,Bhubaneswar,Odisha,2024-11-02,Home & Kitchen,3.9,Medium
+SELR001172,Ahluwalia Style House,Bengaluru,Karnataka,2023-04-29,Fashion,3.4,Low
+SELR001173,Dubey Style Ventures,Pune,Maharashtra,2024-04-13,Fashion,4.4,Medium
+SELR001174,Style Industries,Jaipur,Rajasthan,2022-07-13,Fashion,3.5,Low
+SELR001175,Parmar Junction,Ahmedabad,Gujarat,2022-08-14,Home & Kitchen,3.7,Medium
+SELR001176,Agnihotri Fabric Bazaar,Gurugram,Haryana,2025-07-16,Fashion,2.7,Low
+SELR001177,Kumar Point,Raipur,Chhattisgarh,2025-03-05,Grocery,4.1,Medium
+SELR001178,Vaghela Bazaar,Chennai,Tamil Nadu,2025-03-20,Beauty & Personal Care,4.2,Medium
+SELR001179,Rao Volt Retail,Vijayawada,Andhra Pradesh,2023-07-19,Electronics,3.8,Medium
+SELR001180,Shah Emporium,Mumbai,Maharashtra,2024-02-15,Sports & Fitness,4.7,Medium
+SELR001181,Das Farm Trading Co,Dehradun,Uttarakhand,2024-08-17,Grocery,3.7,Low
+SELR001182,Mehta Fabric Enterprises,Mysuru,Karnataka,2023-04-25,Fashion,4.4,High
+SELR001183,Tiwari Threads Bazaar,Gurugram,Haryana,2024-11-04,Fashion,4.1,High
+SELR001184,Byte Enterprises,Varanasi,Uttar Pradesh,2024-09-06,Electronics,3.8,Medium
+SELR001185,Pal Creations,Kozhikode,Kerala,2023-10-17,Electronics,4.0,Medium
+SELR001186,Ink House,Madurai,Tamil Nadu,2023-11-17,Books,4.0,Low
+SELR001187,Chandra Little Ventures,Gurugram,Haryana,2023-06-25,Toys & Baby Products,3.9,Medium
+SELR001188,Gadget Electricals,Lucknow,Uttar Pradesh,2025-01-10,Electronics,3.4,Low
+SELR001189,Jain Read House,Guwahati,Assam,2025-08-08,Books,4.7,High
+SELR001190,Rathore Tech Mart,Pune,Maharashtra,2025-08-22,Electronics,4.1,Medium
+SELR001191,Hegde Radiance Enterprises,Madurai,Tamil Nadu,2024-12-05,Beauty & Personal Care,3.9,Medium
+SELR001192,Read Creations,Ahmedabad,Gujarat,2023-08-11,Books,4.0,Medium
+SELR001193,Khanna Textiles,Ranchi,Jharkhand,2024-12-16,Fashion,4.1,Low
+SELR001194,Malhotra Collection,Mumbai,Maharashtra,2023-04-14,Electronics,3.2,Low
+SELR001195,Deshmukh Marketing,Delhi,Delhi,2025-04-27,Beauty & Personal Care,3.4,Low
+SELR001196,Chowdhury Overseas,Margao,Goa,2023-05-10,Toys & Baby Products,4.2,Medium
+SELR001197,Kaul Vogue Ventures,Siliguri,West Bengal,2023-10-12,Fashion,3.4,Medium
+SELR001198,Malhotra Weave Retail,Udaipur,Rajasthan,2022-10-24,Fashion,4.2,Medium
+SELR001199,Ahluwalia Volt Marketing,Gorakhpur,Uttar Pradesh,2022-10-10,Electronics,3.4,Medium
+SELR001200,Bloom Hub,Jaipur,Rajasthan,2023-10-02,Beauty & Personal Care,3.8,Low
