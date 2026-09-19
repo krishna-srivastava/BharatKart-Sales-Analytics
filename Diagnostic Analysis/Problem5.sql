@@ -2,9 +2,9 @@ USE bharatkart;
 
 -- PROBLEM 5 - SELLER LOSS LEAKAGE IN MAHARASHTRA & TAMIL NADU
 -- Main Question: Identify root causes driving negative profit margins in Maharashtra 
---            & Tamil Nadu, and analyze loss-making sellers across Seller Tiers.
+--             & Tamil Nadu, and analyze loss-making sellers across Seller Tiers.
 
--- Query 5.1: Top Loss-Making Outlier Sellers in MH & TN:
+-- Query 5.1: Top Loss-Making Outlier Sellers in MH & TN: 
 SELECT 
     s.seller_state, 
     s.seller_id,
