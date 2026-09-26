@@ -4,7 +4,7 @@
 
 BharatKart Sales Analytics is an end-to-end e-commerce analytics project built using **Python, Pandas, SQL, and Power BI** to analyze customers, orders, products, sellers, payments, and returns for an Indian e-commerce marketplace.
 
-The project follows a complete analytics lifecycle — from raw data exploration and cleaning, through diagnostic (root-cause) analysis and SQL-based business analysis, to a fully interactive Power BI dashboard with relational data modeling.
+The project follows a complete analytics lifecycle — from raw data exploration and cleaning, through SQL-based business analysis and diagnostic (root-cause) analysis, to a fully interactive Power BI dashboard with relational data modeling.
 
 **Repository:** [BharatKart-Sales-Analytics](https://github.com/krishna-srivastava/BharatKart-Sales-Analytics)
 
@@ -28,8 +28,8 @@ This project investigates these problems end-to-end — from raw data to a diagn
 
 - Explore and clean raw e-commerce data across 7 relational tables
 - Validate table relationships and data consistency before analysis
-- Perform diagnostic (root-cause) analysis on key business problems
 - Answer business questions using SQL across sales, customers, products, sellers, payments, and returns
+- Perform diagnostic (root-cause) analysis on key business problems
 - Build a relational data model in Power BI with a dedicated Calendar table
 - Design a multi-page Power BI dashboard covering the full business
 - Summarize findings into clear, evidence-based business insights
@@ -66,26 +66,26 @@ The Power BI data model follows a relational (star-like) design, with a dedicate
 
 ## 🛠️ Tools & Technologies
 
-- **Python / Pandas** — data exploration, cleaning, and diagnostic analysis
-- **SQL** — business-question-driven querying across all tables
+- **Python / Pandas** — data exploration, cleaning, and feature engineering
+- **SQL** — business-question-driven querying and diagnostic (root-cause) analysis across all tables
 - **Power BI / DAX** — data modeling, KPI calculation, and dashboard development
 - **GitHub** — version control and project documentation
 
 ---
 
 ## 🔄 Project Workflow
-Raw Data → Exploration & Cleaning → Diagnostic Analysis → SQL Analysis
-→ Relationship Validation → Power BI Data Modeling → Power BI Dashboard
 
+Raw Data → Exploration & Cleaning → SQL Analysis → Diagnostic Analysis
+→ Relationship Validation → Power BI Data Modeling → Power BI Dashboard
 
 ### 1. Data Exploration & Cleaning
 Each table was explored individually in Python/Pandas — inspecting structure, data types, missing values, duplicates, and inconsistent text/categorical values — followed by targeted cleaning and standardization for each table.
 
-### 2. Diagnostic Analysis
-A structured, hypothesis-driven investigation into the key business problems identified above (profitability, seasonal profit collapse, customer behavior, delivery delays, and seller/state-level losses), using Pandas and SQL to isolate root causes rather than just surface-level metrics.
-
-### 3. SQL Analysis
+### 2. SQL Analysis
 A dedicated SQL query folder covering business questions across sales, customers, products, sellers, orders, payments, and returns — including aggregation, ranking, and segment-level breakdowns.
+
+### 3. Diagnostic Analysis
+A structured, hypothesis-driven SQL investigation into the key business problems identified above (profitability, seasonal profit collapse, customer behavior, delivery delays, and seller/state-level losses) — comparing relevant dimensions (discount depth, base margin, category mix, geography, time period) to isolate likely drivers rather than relying on surface-level metrics alone.
 
 ### 4. Relationship Validation
 Verification of primary/foreign key integrity and table relationships across all 7 tables to ensure the data model is consistent before it was loaded into Power BI.
@@ -104,11 +104,12 @@ The Python/Pandas layer of the project covers:
 - Data type checking and correction
 - Data cleaning and text standardization
 - Categorical, product, category, and sub-category analysis
-- Customer segmentation
+- Customer segmentation and feature engineering (delivery days, delivery delay, profit)
 - Aggregations, GroupBy analysis, and dataset merging
-- Business-oriented diagnostic (root-cause) analysis
 
-**Customer Segmentation:**
+**Customer Segmentation (New / Repeat / VIP):**
+
+> ⚠️ Note: segment counts below are taken directly from the Power BI model. Confirm these are computed consistently with the SQL-based analysis before publishing — see the note in the project write-up.
 
 | Segment | Customers |
 |---|---|
@@ -131,6 +132,10 @@ All SQL queries are organized in the `SQL query/` folder and are used to answer 
 - Payment analysis
 - Return analysis
 - Aggregation and ranking-based business questions
+
+## 🔬 Diagnostic (Root-Cause) Analysis
+
+A separate, SQL-driven diagnostic phase investigated five key business problems in depth — testing hypotheses (e.g., discount depth vs. base margin, October vs. rest-of-year, one-time vs. repeat customers, state/seller/category delivery performance) through targeted comparison queries rather than broad exploration. Findings and recommendations from this phase are documented in the `Report/` folder.
 
 ---
 
@@ -163,7 +168,7 @@ High-level business overview of sales, profitability, orders, customers, and pro
 - **Visuals:** Top 10 Sellers by Revenue · Top 10 Profit-Making Sellers · Top 10 Loss-Making Sellers · Top 10 Seller States by Sales · Sales by Seller Tier · Sales by Seller Rating
 
 ### 6. Delivery & Operations
-- **KPIs:** Total Delivered Orders (87.74K) · On-Time Orders (34.05K) · Delayed Orders (53.69K) · Average Delivery Days (5.02) · Average Delivery Delay (2.63)
+- **KPIs:** Total Delivered Orders (87.74K) · On-Time Orders (34.05K) · Delayed Orders (53.69K) · Average Delivery Days (5.02) · Average Delivery Delay (1.26)
 - **Visuals:** Monthly Delivery Performance · Expected vs Actual Delivery Days · Top Reasons for Order Cancellation · On-Time vs Delayed Delivery Share · Top 10 Cities by Delivery Delay
 
 ### 7. Payments & Returns
@@ -186,28 +191,29 @@ High-level business overview of sales, profitability, orders, customers, and pro
 
 ## 📁 Repository Structure
 
+```
 BharatKart-Sales-Analytics/
 │
-├── Raw Data/ # Original, unprocessed source data
-├── Exploration n Cleaning/ # Python/Pandas notebooks - data exploration & cleaning
-├── Diagnostic Analysis/ # Root-cause analysis notebooks for key business problems
-├── Relationship Validation/ # Table relationship & data integrity checks
-├── Clean Data/ # Final cleaned datasets used for analysis
-├── SQL query/ # SQL scripts for business-question analysis
-├── Report/ # Written analysis and diagnostic reports
-├── PowerBi Dashboard/ # Power BI file, data model, and dashboard screenshots
-│ ├── Dashboard Screenshot/ # Page-by-page dashboard screenshots
-│ ├── BharatKart_Dashboard.pbix # Power BI project file
-│ └── Data model_ss.png # Data model screenshot
+├── Raw Data/                  # Original, unprocessed source data
+├── Exploration n Cleaning/    # Python/Pandas notebooks - data exploration & cleaning
+├── SQL query/                 # SQL scripts for business-question analysis
+├── Diagnostic Analysis/       # SQL-based root-cause analysis scripts for key business problems
+├── Relationship Validation/   # Table relationship & data integrity checks
+├── Clean Data/                # Final cleaned datasets used for analysis
+├── Report/                    # Written analysis and diagnostic reports
+├── PowerBi Dashboard/         # Power BI file, data model, and dashboard screenshots
+│   ├── Dashboard Screenshot/  # Page-by-page dashboard screenshots
+│   ├── BharatKart_Dashboard.pbix
+│   └── Data model_ss.png
 └── README.md
-
+```
 
 ---
 
 ## 🚀 How to Use This Repository
 
-1. **Explore the analysis process** — start with `Raw Data/`, then follow `Exploration n Cleaning/` → `Diagnostic Analysis/` → `Relationship Validation/` → `Clean Data/` to see how the data was processed.
-2. **Review the SQL analysis** — open the `.sql` files inside `SQL query/` to see the business questions answered at the database level.
+1. **Explore the analysis process** — start with `Raw Data/`, then follow `Exploration n Cleaning/` → `SQL query/` → `Diagnostic Analysis/` → `Relationship Validation/` → `Clean Data/` to see how the data was processed.
+2. **Review the SQL analysis** — open the `.sql` files inside `SQL query/` to see the business questions answered at the database level, and the diagnostic queries inside `Diagnostic Analysis/` to see the root-cause investigation.
 3. **Read the findings** — check the `Report/` folder for the full written analysis and diagnostic conclusions.
 4. **View the dashboard** — open `PowerBi Dashboard/BharatKart_Dashboard.pbix` in **Power BI Desktop** to explore the interactive dashboard, or view the page-by-page screenshots in `Dashboard Screenshot/` for a quick preview without opening Power BI.
 
