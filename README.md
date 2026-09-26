@@ -107,16 +107,6 @@ The Python/Pandas layer of the project covers:
 - Customer segmentation and feature engineering (delivery days, delivery delay, profit)
 - Aggregations, GroupBy analysis, and dataset merging
 
-**Customer Segmentation (New / Repeat / VIP):**
-
-> ⚠️ Note: segment counts below are taken directly from the Power BI model. Confirm these are computed consistently with the SQL-based analysis before publishing — see the note in the project write-up.
-
-| Segment | Customers |
-|---|---|
-| New | 24,128 |
-| Repeat | 15,491 |
-| VIP | 381 |
-
 ---
 
 ## 🗄️ SQL Analysis
